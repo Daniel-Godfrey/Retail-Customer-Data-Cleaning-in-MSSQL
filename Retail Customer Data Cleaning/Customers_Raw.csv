@@ -1,0 +1,801 @@
+CustomerID,FullName,Email,Phone,State,DateJoined,TotalSpend,Gender,BranchName,LoyaltyStatus,LastPurchaseDate,PreferredPaymentMethod
+1,Ibrahim Okafor,figueroajohn@doyle.net,07220106707,Kebbi,2021-07-25,226208.0,M,Lekki Branch,Silver,2025-05-03,Cash
+2,Gbenga Yakubu,johnsonjeffery@hotmail.com,07964669077,Plateau,2021-01-18,8407.0,m,Owerri Outlet,Gold,2025-03-18,Transfer
+3,Ibrahim Mohammed,lrobinson@pacheco-smith.com,07568054227,Kano,2024-06-02,286137.0,m,Lekki Branch,,2024-04-09,Transfer
+4,Zainab Yakubu,,07621455910,Oyo,2021-08-12,459286.0,m,Kano Plaza,Platinum,2024-06-10,Transfer
+5,Tunde Bello,melanie94@blair.com,+2348467907436,Enugu,2024-01-17,94725.0,Male,Benin Mall,Platinum,2023-02-28,Card
+6,Yusuf Adewale,,07574969167,Enugu,2022-10-06,,Female,Benin Mall,Platinum,2024-01-21,POS
+7,Funke Okon,MICHELLEJAMES@REID-DIAZ.COM,+2348604199939,Adamawa,2023-11-05,,Female,Port Harcourt Center,,2023-09-19,Cash
+8,Ibrahim Balogun,lynchgeorge@hotmail.com,07136424712,Gombe,2022-11-27,,,Ikeja Mall,Bronze,2023-07-09,Transfer
+9,Yusuf Eze,onelson@hotmail.com,08550680889,Niger,2025-07-24,404487.0,,Lekki Branch,Gold,2023-10-05,Card
+10,Funke Bello,perezantonio@yahoo.com,+2348138925839,Lagos,2024-03-27,261170.0,F,Owerri Outlet,Gold,2023-12-18,Card
+11,Zainab Mohammed,ROBINBRADLEY@EDWARDS.INFO,08633380706,Kebbi,2022-01-14,,,Port Harcourt Center,Gold,2023-12-14,POS
+12,Aisha Oladipo,julieryan@richards.com,+2347856829437,Bauchi,2021-12-31,,F,Abuja Central,Silver,,Cash
+13,Zainab Oladipo,camposmichelle@gmail.com,08355283291,Rivers,2022-03-09,479700.0,female,Lekki Branch,,2025-09-20,POS
+14,Aisha Oladipo,CRUZCAITLIN@YAHOO.COM,+2348015053308,Benue,2025-04-28,,Female,Lekki Branch,Bronze,2023-11-23,Transfer
+15,Fatima Osagie,maldonadoamanda@mack-peterson.com,+2348387660448,Kaduna,2024-07-09,,F,Abuja Central,Silver,2023-07-01,POS
+16,Funke Osagie,MCKAYNANCY@YAHOO.COM,+2347161887817,Anambra,2025-01-30,453773.0,M,Abeokuta Branch,Bronze,2023-08-02,Card
+17,Tunde Osagie,meagan89@hernandez.net,07125918568,Imo,2025-05-02,,f,Kano Plaza,Platinum,2022-10-29,POS
+18,Funke Yakubu,xsmith@yahoo.com,+2348164355336,Rivers,2022-11-10,34971.0,f,Abeokuta Branch,,2023-01-26,Cash
+19,Tunde Mohammed,millertodd@spence.com,07257454533,Benue,2021-11-30,25836.0,m,Enugu Plaza,,2025-08-18,Transfer
+20,Aisha Nwosu,josephbrennan@yahoo.com,+2347644238817,Bayelsa,2022-08-17,399193.0,M,Benin Mall,,2025-02-12,Cash
+21,Ngozi Oladipo,raymond57@hayes.com,+2348891641408,Enugu,2025-07-14,,Male,Benin Mall,,2023-10-21,Cash
+22,Gbenga Ojo,jonescrystal@jones.com,+2347567936247,Edo,2021-06-05,394240.0,male,Kano Plaza,,2025-01-04,Transfer
+23,Aisha Okon,elizabeth38@cummings.org,+2347109089799,Oyo,2024-11-04,,M,Ikeja Mall,Gold,2023-11-10,Transfer
+24,Tunde Okeke,glee@hotmail.com,07161584944,Delta,2024-06-28,,,Port Harcourt Center,Platinum,2024-05-01,Transfer
+25,Bamidele Adewale,uowens@gmail.com,07220747617,Sokoto,2021-08-29,,Male,Abuja Central,Silver,2023-01-31,Card
+26,Fatima Okafor,LAUREN13@GMAIL.COM,+2347884147285,Benue,2022-06-10,417811.0,m,Ikeja Mall,Platinum,2025-02-08,POS
+27,Bamidele Ojo,robertramirez@gmail.com,08417410477,Akwa Ibom,2021-06-19,151068.0,male,Owerri Outlet,,2024-09-16,Transfer
+28,Chika Eze,pearsonamber@novak.com,+2347570084674,Kano,2024-04-12,,female,Kaduna Main,,2024-11-21,Cash
+29,Chinonso Nnamdi,,08116520442,Kebbi,2024-01-18,497968.0,female,Kaduna Main,Bronze,2022-11-01,Transfer
+30,Obinna Nwosu,sara74@yahoo.com,+2348089037295,Ondo,2025-07-20,,male,Abeokuta Branch,Silver,2025-08-22,POS
+31,Tunde Olayinka,jamesrobinson@gmail.com,+2347652566491,Kwara,2025-10-01,,f,Benin Mall,Platinum,2025-02-17,POS
+32,Tunde Mohammed,brian97@calhoun.net,+2347200547477,Benue,2021-07-03,122776.0,Male,Ikeja Mall,Bronze,2023-08-13,POS
+33,Obinna Mohammed,leonardjoe@david.com,+2348542636096,Gombe,2025-09-30,132918.0,M,Lekki Branch,Platinum,2025-05-09,POS
+34,Emeka Oladipo,barnesbrandy@stewart.com,08721029047,Bayelsa,2022-11-08,,f,Enugu Plaza,,2023-12-15,POS
+35,Tunde Ogunleye,emilyevans@yahoo.com,+2347595521585,Kogi,2021-06-10,,f,Lekki Branch,Gold,2022-11-12,Transfer
+36,Yusuf Oladipo,JONESJASON@YAHOO.COM,07328146801,Katsina,2021-12-13,,,Benin Mall,Platinum,,POS
+37,Chinonso Nnamdi,,+2348236285615,Gombe,2024-07-20,,male,Kaduna Main,Platinum,2025-02-18,Card
+38,Tope Abiola,contrerasangela@hotmail.com,08436395163,Yobe,2021-09-14,,Male,Enugu Plaza,,,POS
+39,Zainab Nnamdi,darrell18@nelson.com,08861549105,Bayelsa,2023-09-28,,female,Abuja Central,Platinum,2023-09-10,POS
+40,Blessing Osagie,dking@gmail.com,08158393599,Rivers,2024-06-05,188480.0,F,Ikeja Mall,Bronze,2024-01-01,Card
+41,Chika Olayinka,COOKDAVID@MARTIN-RAMOS.BIZ,+2348211115441,Katsina,2025-08-05,,Male,Enugu Plaza,,2022-11-13,Cash
+42,Tunde Ojo,,08454592222,Gombe,2025-07-10,379873.0,F,Enugu Plaza,Silver,2023-06-16,Transfer
+43,Obinna Eze,bobbydiaz@gmail.com,08144061708,Adamawa,2023-11-13,,M,Kaduna Main,Platinum,2023-09-20,Transfer
+44,Efe Balogun,gomezanita@dickson-brady.com,+2347579997523,Kebbi,2022-03-16,,male,Owerri Outlet,Silver,2023-07-31,Cash
+45,Blessing Okeke,whitesandra@yahoo.com,+2347813873333,Ekiti,,,Male,Benin Mall,Silver,2025-09-03,Transfer
+46,Yusuf Okon,erik16@garrison.com,07021799349,Kogi,2024-09-27,49885.0,m,Benin Mall,,2024-04-24,POS
+47,Tope Okeke,jeffreykeller@yahoo.com,08485601606,Benue,2023-08-13,,f,Abeokuta Branch,,2024-01-04,Transfer
+48,Bamidele Okeke,michael86@zavala.com,07413571616,Osun,2023-01-17,285947.0,Female,Abuja Central,Platinum,2023-08-02,Transfer
+49,Ibrahim Yakubu,rodriguezryan@hotmail.com,08520458119,Kebbi,2023-06-29,28863.0,,Kano Plaza,Silver,2024-09-05,POS
+50,Ibrahim Okafor,mlam@williams-graham.net,07395917967,Rivers,2025-05-27,,F,Lekki Branch,Platinum,2025-09-29,Cash
+51,Funke Balogun,ryan59@alvarado-martinez.com,07532986017,Edo,2025-02-19,223195.0,,Kaduna Main,Platinum,2024-02-21,Transfer
+52,Zainab Osagie,richard48@gmail.com,+2348589329690,Kaduna,2022-06-16,113940.0,male,Lekki Branch,Silver,2024-08-12,Cash
+53,Tunde Okafor,christinaturner@hotmail.com,07070093565,Borno,2020-10-29,,F,Abuja Central,Gold,2024-02-13,Card
+54,Fatima Eze,russellcarpenter@hotmail.com,+2348775176901,Delta,2023-07-26,,male,Benin Mall,Bronze,2024-10-20,Transfer
+55,Chinonso Okon,glowe@yahoo.com,07085600382,Adamawa,2022-04-08,,M,Lekki Branch,Silver,2025-08-17,Cash
+56,Blessing Nnamdi,ZACHARY95@CARDENAS.COM,08399105983,Anambra,2022-09-25,,f,Lekki Branch,Platinum,2023-09-03,Transfer
+57,Yusuf Eze,williamstracey@atkinson.org,+2347618943007,Yobe,2022-06-24,293409.0,f,Lekki Branch,Gold,2025-10-14,Cash
+58,Chinonso Ibrahim,,+2347992086654,Taraba,2020-11-14,,f,Benin Mall,Bronze,2023-04-12,Card
+59,Okon Okeke,gregoryrubio@hotmail.com,08352962529,Benue,2024-10-10,167922.0,,Kaduna Main,Bronze,2023-01-15,Cash
+60,Efe Eze,bryantlaurie@schmidt.info,+2347626767927,Zamfara,2025-02-12,,f,Abuja Central,Platinum,2024-08-21,POS
+61,Aisha Olayinka,juliawells@yahoo.com,+2347593236780,Taraba,2022-12-05,,M,Kano Plaza,Gold,2025-07-15,POS
+62,Funke Okeke,rsims@yahoo.com,+2348167007182,Gombe,2021-06-25,173704.0,Female,Enugu Plaza,Platinum,2024-01-15,POS
+63,Emeka Nwosu,matthew81@hernandez.com,+2347829097801,Delta,2022-08-23,24408.0,,Enugu Plaza,Gold,2023-02-05,POS
+64,Ibrahim Ibrahim,,08870314308,Delta,2021-05-09,,female,Enugu Plaza,Platinum,2023-09-15,Transfer
+65,Gbenga Audu,lstein@hotmail.com,+2348047859234,Kebbi,,40872.0,male,Abuja Central,Bronze,2022-11-28,Cash
+66,Ibrahim Okeke,WSMITH@YAHOO.COM,07696589295,Rivers,2024-02-21,,Male,Abuja Central,,2024-08-09,Card
+67,Tunde Olawale,BROBINSON@JOHNSON-ROGERS.BIZ,+2347517178043,Abia,2022-03-24,80034.0,f,Kano Plaza,Platinum,2024-10-24,Cash
+68,Efe Ojo,meadowsbrittany@johnson.info,07742096516,Ondo,2022-05-15,,f,Kano Plaza,Silver,2023-01-15,POS
+69,Ibrahim Abiola,dmurphy@yahoo.com,08501690396,Kwara,,,male,Ikeja Mall,,2024-04-05,Cash
+70,Obinna Ogunleye,karen64@gmail.com,+2347494175487,Sokoto,2024-10-28,,Male,Lekki Branch,Bronze,2022-11-28,POS
+71,Emeka Nnamdi,jeffrey10@herring.com,+2347701623981,Taraba,2022-02-13,,,Abeokuta Branch,Gold,2023-11-03,Transfer
+72,Tope Ojo,kcaldwell@marshall.com,07161704148,Delta,2022-04-02,,,Owerri Outlet,Bronze,2025-05-27,Cash
+73,Blessing Oladipo,TAMIRODRIGUEZ@HICKMAN.BIZ,+2347562987343,Gombe,2024-03-13,,F,Abuja Central,Platinum,,Transfer
+74,Obinna Abiola,vargasmaria@garcia.org,08505551759,Ondo,2021-11-08,66171.0,M,Ikeja Mall,Gold,2025-03-26,Cash
+75,Ibrahim Abiola,amanda51@holland.info,08439858177,Kebbi,2021-09-20,394162.0,m,Lekki Branch,Platinum,2024-09-01,Transfer
+76,Emeka Bello,bzimmerman@gmail.com,07778862349,Kaduna,2025-04-06,,M,Kaduna Main,Gold,2025-08-04,Cash
+77,Efe Mohammed,umarshall@hotmail.com,+2347045864788,Rivers,2023-02-08,132700.0,Female,Lekki Branch,,2024-03-12,Card
+78,Seyi Nwosu,ramirezshannon@hudson-barnett.com,+2347595443193,Delta,2021-01-25,,Male,Lekki Branch,Bronze,2024-12-04,Transfer
+79,Seyi Nnamdi,tonykelly@yahoo.com,08592827405,Taraba,2023-09-20,395943.0,f,Benin Mall,Gold,2024-01-06,Cash
+80,Efe Ibrahim,blackjames@gmail.com,+2348951529376,Kogi,2024-04-12,342295.0,M,Benin Mall,Platinum,2024-11-25,Cash
+81,Tope Okeke,FBREWER@MCGUIRE-DAVIS.COM,+2347141051528,Ogun,2024-04-06,,m,Enugu Plaza,,2025-10-07,POS
+82,Ibrahim Eze,elizabeth57@schmidt.com,+2348547991926,Katsina,2023-10-26,470615.0,m,Owerri Outlet,Platinum,2025-10-24,Cash
+83,Yusuf Osagie,kristopher31@hotmail.com,+2348474936930,Ebonyi,2022-06-18,441088.0,F,Kaduna Main,Bronze,2024-03-02,Transfer
+84,Funke Oladipo,JAMESRODGERS@HARDY-BRAY.NET,+2348438842540,Edo,2023-03-26,,M,Kano Plaza,,2023-04-03,Cash
+85,Zainab Ibrahim,jeremy24@erickson.com,07232397209,Sokoto,2021-03-18,197707.0,male,Enugu Plaza,Silver,2023-01-21,Cash
+86,Obinna Okon,DANAMULLINS@GMAIL.COM,+2348978986755,Ekiti,2020-12-05,100108.0,m,Lekki Branch,Silver,2025-04-07,Cash
+87,Ngozi Ibrahim,vmendoza@gmail.com,07794682962,Ondo,2021-04-05,412285.0,M,Port Harcourt Center,Silver,2023-11-25,Cash
+88,Ngozi Okon,shortrichard@gmail.com,+2347889452809,Plateau,2025-09-24,273617.0,female,Kaduna Main,Bronze,2025-07-02,POS
+89,Chidinma Ojo,EDWARDHART@MILLER-WRIGHT.NET,+2347016507894,Katsina,2024-05-13,115747.0,male,Kano Plaza,Gold,2025-05-27,POS
+90,Fatima Olawale,CHAYES@DALTON-BRANCH.COM,08199849719,Sokoto,2025-08-29,456812.0,m,Ikeja Mall,Platinum,2025-06-19,Transfer
+91,Zainab Osagie,mezajared@baker.com,07247332940,Yobe,,175272.0,f,Owerri Outlet,Bronze,2023-11-05,Cash
+92,Seyi Osagie,moorericky@wheeler.com,07666309541,Ekiti,2024-09-07,413482.0,F,Abeokuta Branch,Bronze,2023-02-16,Card
+93,Bamidele Bello,kristin93@wilson-walker.com,+2347507383490,Kaduna,2023-01-31,108427.0,Male,Lekki Branch,Silver,2023-06-06,POS
+94,Efe Nnamdi,martinkyle@holloway.info,+2348212236877,Osun,2023-05-30,,Male,Benin Mall,Bronze,2025-10-19,Transfer
+95,Blessing Nnamdi,VINCENT77@GMAIL.COM,07970477640,Kano,2021-02-28,,F,Lekki Branch,,2024-08-30,POS
+96,Efe Nnamdi,anthony39@hotmail.com,+2347965795765,Akwa Ibom,2020-12-31,254366.0,M,Benin Mall,Bronze,2025-09-07,Transfer
+97,Ngozi Ibrahim,,+2347943651112,Kogi,2024-08-01,,female,Kano Plaza,Platinum,2024-01-04,Transfer
+98,Obinna Adewale,fwalters@harrison.com,07202949969,Jigawa,2023-07-22,,Male,Owerri Outlet,Bronze,2025-09-04,Card
+99,Bamidele Ojo,marksteele@bates-morales.net,08277841297,Oyo,2021-02-19,,Male,Abeokuta Branch,Bronze,2024-10-04,POS
+100,Chidinma Bello,JOHNNY16@BRYAN.INFO,+2347733864621,Abia,2024-05-03,77123.0,F,Kano Plaza,Bronze,2023-01-21,Cash
+101,Yusuf Olayinka,CINDY77@HARRIS.COM,08785299914,Imo,2023-04-10,,female,Abuja Central,Platinum,2024-09-08,POS
+102,Seyi Oladipo,johnsoncrystal@gmail.com,+2348941270100,Akwa Ibom,2022-03-04,,f,Kano Plaza,Platinum,2024-02-23,POS
+103,Tunde Yakubu,hdavis@valentine-holland.com,08376921489,Ebonyi,2025-01-23,295739.0,,Lekki Branch,Gold,,Card
+104,Blessing Okeke,robert77@gmail.com,08955294507,Borno,2024-09-16,,M,Kaduna Main,Bronze,2025-03-03,Transfer
+105,Seyi Audu,mlee@francis.biz,08998933422,Kaduna,2023-09-18,,Male,Port Harcourt Center,Bronze,2024-12-25,POS
+106,Funke Ogunleye,,07549592449,Katsina,2025-10-03,,F,Kano Plaza,Silver,2025-08-19,Cash
+107,Seyi Osagie,seanwashington@yahoo.com,08796773184,Abia,2025-07-08,13616.0,Male,Kano Plaza,Platinum,,Transfer
+108,Seyi Nnamdi,mcantu@hotmail.com,07774390672,Enugu,2022-11-08,290255.0,m,Benin Mall,Bronze,2025-04-04,Transfer
+109,Blessing Okafor,melissajenkins@yahoo.com,08411120948,Kaduna,2024-11-05,,Male,Ikeja Mall,Gold,2025-10-28,Card
+110,Efe Ogunleye,ymcneil@hotmail.com,08666856183,Bayelsa,,110691.0,Female,Ikeja Mall,Gold,2023-06-22,POS
+111,Gbenga Ogunleye,martineztammy@yahoo.com,07766596207,Rivers,2021-09-04,,F,Owerri Outlet,Platinum,2024-09-11,POS
+112,Chinonso Nwosu,jsmith@pitts-booker.com,08984941610,Kogi,2024-10-25,,F,Kaduna Main,,2023-12-14,Card
+113,Gbenga Ojo,vsantos@hotmail.com,+2347658194845,Anambra,2025-05-12,228407.0,f,Owerri Outlet,Platinum,,Transfer
+114,Obinna Osagie,courtney78@gmail.com,+2347161149677,Yobe,2021-05-28,425005.0,M,Port Harcourt Center,,2023-10-28,POS
+115,Emeka Balogun,JULIEHAMILTON@GMAIL.COM,07822173555,Kano,2021-09-05,,female,Owerri Outlet,Platinum,2024-09-17,Card
+116,Chidinma Bello,rebecca05@carter.biz,07243629051,Abuja,2022-01-23,,,Lekki Branch,Gold,2023-11-12,POS
+117,Aisha Olayinka,georgemiller@yahoo.com,07263361859,Ogun,2022-11-15,242000.0,f,Lekki Branch,Gold,2024-12-10,Cash
+118,Gbenga Oladipo,stevenking@estrada-nolan.info,08523776627,Cross River,2023-04-09,271734.0,F,Abuja Central,Silver,2025-09-15,POS
+119,Chika Bello,alexandermichael@evans.info,+2348184652780,Ogun,2023-05-24,50201.0,male,Kaduna Main,Platinum,2023-09-03,POS
+120,Zainab Mohammed,YRODRIGUEZ@HOTMAIL.COM,08000369176,Kogi,2023-11-17,465303.0,Male,Kaduna Main,,2025-04-08,Cash
+121,Ibrahim Ibrahim,ANDREW64@GMAIL.COM,08523279166,Borno,2025-08-21,,F,Kano Plaza,Silver,2025-09-28,Transfer
+122,Funke Ojo,swall@lawson.com,+2348270898954,Delta,2022-06-10,,M,Ikeja Mall,Bronze,,Transfer
+123,Aisha Nnamdi,courtneyberger@hotmail.com,08346824461,Kebbi,2021-02-27,,Female,Kaduna Main,Gold,2024-02-20,Cash
+124,Tunde Okeke,rileyjessica@gmail.com,07308526162,Osun,2023-05-02,,m,Port Harcourt Center,Gold,2024-03-19,Cash
+125,Yusuf Abiola,jamesbuchanan@yahoo.com,07207901451,Rivers,2025-05-04,,Female,Port Harcourt Center,Gold,2024-12-16,Transfer
+126,Aisha Olawale,jonathansummers@yahoo.com,07662585636,Abia,,,Female,Abuja Central,,2024-01-30,Cash
+127,Okon Ogunleye,mcdonaldcharles@gmail.com,+2347613639983,Kebbi,,,Male,Kano Plaza,Gold,2025-09-13,Transfer
+128,Emeka Audu,CHRISTOPHER60@YAHOO.COM,07619767433,Enugu,2025-05-22,,F,Port Harcourt Center,Bronze,2023-05-08,Transfer
+129,Gbenga Bello,emily49@yahoo.com,+2348073909128,Kano,,,f,Abeokuta Branch,Platinum,2025-07-16,Card
+130,Yusuf Olayinka,leonardthomas@hotmail.com,+2348809473866,Ondo,2025-08-07,,male,Benin Mall,Bronze,2024-03-21,Cash
+131,Fatima Nnamdi,reidsteven@turner.com,+2348351326604,Abuja,2023-05-31,144214.0,M,Enugu Plaza,Platinum,2024-12-02,POS
+132,Funke Abiola,YOUNGAMANDA@CHAVEZ-SANTIAGO.NET,07040667695,Anambra,2024-05-22,,Female,Kaduna Main,,2025-04-28,POS
+133,Emeka Balogun,fpena@russell.com,+2348027293866,Kogi,2022-09-03,,,Owerri Outlet,,2024-09-16,Transfer
+134,Obinna Ogunleye,MELISSAGARCIA@HOTMAIL.COM,+2347482898276,Ondo,2023-12-13,374571.0,f,Owerri Outlet,Platinum,2025-02-20,Transfer
+135,Okon Eze,sandersjames@gmail.com,+2347847251985,Sokoto,2024-09-09,426850.0,male,Ikeja Mall,Gold,2023-03-20,Cash
+136,Bamidele Okeke,williamsmatthew@buchanan.com,08778012749,Kebbi,2025-07-15,,Male,Lekki Branch,,2023-09-15,Card
+137,Seyi Adewale,markhernandez@smith.com,+2347112723794,Kaduna,2025-06-02,,F,Port Harcourt Center,Bronze,2023-11-22,Card
+138,Fatima Ogunleye,guerreroanthony@howard.org,+2347689702393,Kwara,2023-07-30,481020.0,Female,Abeokuta Branch,Bronze,2022-11-22,Card
+139,Fatima Olawale,,+2348692132574,Abia,2023-11-26,,M,Ikeja Mall,Gold,2025-01-03,Cash
+140,Yusuf Ojo,ngordon@acosta.net,+2348909671224,Ogun,2023-05-23,,Female,Lekki Branch,Gold,2024-10-09,POS
+141,Blessing Olawale,LUTZMELANIE@PARKS-HENRY.INFO,08448265418,Akwa Ibom,2021-06-13,,m,Abeokuta Branch,Gold,,Cash
+142,Tunde Balogun,charlene12@weber-richards.com,07823719737,Benue,2024-01-24,,male,Enugu Plaza,,,Transfer
+143,Seyi Adewale,bwagner@gmail.com,08473331884,Zamfara,2021-10-18,,F,Kano Plaza,Gold,2025-08-11,Card
+144,Funke Ogunleye,OHAYES@MORGAN-CHAVEZ.BIZ,+2347893021659,Jigawa,2021-08-19,402069.0,Female,Enugu Plaza,Bronze,2024-02-26,Transfer
+145,Ngozi Nnamdi,ELIZABETH52@HOTMAIL.COM,+2347434128376,Kebbi,2024-11-09,,F,Abuja Central,,2023-02-10,POS
+146,Emeka Okeke,DAVISCOLIN@WATSON.NET,+2348200007840,Bayelsa,2025-08-08,166569.0,m,Kano Plaza,Bronze,2024-03-24,Cash
+147,Emeka Osagie,qgomez@parrish-griffith.com,+2348920319488,Enugu,2023-06-25,252501.0,male,Kaduna Main,Silver,2024-04-27,POS
+148,Bamidele Audu,ericolson@bell.com,07172335547,Kebbi,2021-10-19,,F,Port Harcourt Center,,2024-01-04,Card
+149,Seyi Okafor,xbruce@austin.com,08544242549,Kebbi,2021-01-25,203850.0,Female,Benin Mall,Gold,2023-08-05,Card
+150,Ibrahim Adewale,sandra50@gmail.com,+2348897852885,Abuja,2022-01-16,40279.0,M,Benin Mall,,2025-03-26,Cash
+151,Seyi Adewale,thomascynthia@gmail.com,08854846568,Rivers,2021-08-09,156657.0,female,Enugu Plaza,,2025-01-30,Transfer
+152,Seyi Ojo,vbarnes@wood.com,+2347888113780,Ondo,2025-08-26,296880.0,m,Abeokuta Branch,Platinum,,Transfer
+153,Chinonso Ibrahim,moorekaren@craig.info,07808442101,Cross River,2024-06-06,253260.0,Female,Kano Plaza,Silver,2024-11-21,Cash
+154,Gbenga Osagie,wnelson@hotmail.com,07521534692,Niger,2021-10-16,344060.0,f,Owerri Outlet,Bronze,2024-04-17,Card
+155,Emeka Okon,campbellerika@yahoo.com,07156303166,Akwa Ibom,2025-04-22,313063.0,f,Abuja Central,Gold,2025-08-30,Cash
+156,Aisha Yakubu,walkertracey@gmail.com,+2348028474746,Benue,2020-11-20,373977.0,m,Abuja Central,,2023-09-11,Transfer
+157,Chinonso Okeke,katrinaduran@yahoo.com,08101265133,Abia,2023-08-13,,female,Abuja Central,Gold,2023-05-03,Cash
+158,Zainab Abiola,,+2348254198956,Taraba,2025-01-29,,Female,Kaduna Main,,2025-03-14,POS
+159,Gbenga Nwosu,sandersjudy@yahoo.com,+2348378028337,Abia,2020-12-25,,Male,Port Harcourt Center,,2024-10-12,Cash
+160,Chidinma Adewale,barbara96@bowman.com,+2347104183866,Lagos,2022-04-14,446736.0,F,Port Harcourt Center,Bronze,2025-06-15,POS
+161,Bamidele Adewale,christopher13@yahoo.com,+2348037673021,Abia,,,M,Ikeja Mall,,2025-04-30,Transfer
+162,Chika Ibrahim,fosterkyle@yahoo.com,+2348953723424,Cross River,2022-09-16,55496.0,Female,Abuja Central,,2024-03-29,Transfer
+163,Blessing Audu,DIXONDANIEL@LEE.COM,07522284973,Borno,2022-11-01,439143.0,M,Lekki Branch,Platinum,2023-04-06,POS
+164,Emeka Okafor,james92@jones.info,+2348384927756,Ekiti,2025-08-14,454818.0,,Ikeja Mall,Silver,2025-04-16,POS
+165,Blessing Adewale,michelle52@yahoo.com,08166149545,Kano,2021-05-28,,M,Abuja Central,,2024-10-26,POS
+166,Ngozi Ojo,LAURA90@YAHOO.COM,+2347835707448,Kebbi,2025-02-20,401156.0,F,Abeokuta Branch,Gold,,POS
+167,Seyi Mohammed,steven00@decker-jones.com,+2347851913297,Osun,,,f,Abuja Central,Gold,2025-06-10,POS
+168,Fatima Olawale,ycarpenter@hotmail.com,08328467517,Kwara,2021-03-04,378874.0,F,Kano Plaza,Silver,2024-09-26,Card
+169,Chinonso Nwosu,cassidy82@hayes.com,+2347955063004,Bauchi,2025-02-11,58598.0,F,Port Harcourt Center,Platinum,2025-07-28,POS
+170,Ibrahim Okafor,WRIGHTSAMUEL@WARREN-BISHOP.COM,+2348684569330,Osun,2023-12-30,,m,Kaduna Main,Bronze,2024-01-11,Card
+171,Zainab Ibrahim,RSCHROEDER@HOTMAIL.COM,07646674468,Plateau,2021-04-08,38170.0,m,Kano Plaza,Platinum,2025-07-05,Cash
+172,Bamidele Okon,riveraangela@yahoo.com,08324286148,Akwa Ibom,2023-03-29,,M,Kaduna Main,Gold,2023-11-24,POS
+173,Yusuf Okeke,christopher25@ponce-hale.biz,+2348276449083,Ogun,2021-12-02,321256.0,f,Owerri Outlet,Silver,2025-05-10,Transfer
+174,Okon Ogunleye,angelica52@warner.net,07601939979,Yobe,2021-08-14,493671.0,,Port Harcourt Center,,,POS
+175,Aisha Okeke,andrew42@gmail.com,08820610704,Taraba,2023-09-24,,Female,Kano Plaza,Silver,2024-11-22,POS
+176,Ngozi Okeke,zoemoore@richard-garcia.net,08087942364,Taraba,2025-04-20,,,Enugu Plaza,Bronze,2022-12-26,Card
+177,Bamidele Olawale,,+2348454859819,Yobe,2022-03-26,,F,Ikeja Mall,Bronze,2024-09-07,Card
+178,Efe Bello,udiaz@montes.com,+2348074742088,Delta,2024-08-22,,F,Kano Plaza,Platinum,2023-10-27,Cash
+179,Ibrahim Balogun,tammy73@gregory-hudson.info,+2348119085570,Ebonyi,2024-10-01,,f,Owerri Outlet,Bronze,2024-01-09,Cash
+180,Chika Nwosu,mburch@hotmail.com,08590189069,Benue,2021-12-31,294359.0,female,Abeokuta Branch,Platinum,2023-11-21,Card
+181,Chinonso Olawale,JSAWYER@DAWSON.COM,08583529456,Akwa Ibom,2023-04-01,,M,Abuja Central,Silver,2023-03-08,Cash
+182,Zainab Eze,shannon82@davis-lozano.info,07423213791,Bayelsa,2023-10-19,,,Owerri Outlet,,2022-12-09,POS
+183,Zainab Eze,sandersnathaniel@yahoo.com,+2348747489599,Ondo,2021-07-08,314418.0,Male,Owerri Outlet,Bronze,2024-06-02,Cash
+184,Tunde Bello,florescory@santos.com,07296067761,Gombe,2024-11-03,260155.0,,Port Harcourt Center,Platinum,2025-10-14,Card
+185,Yusuf Okeke,awest@smith.com,+2348040689742,Ogun,2025-06-29,,m,Benin Mall,Platinum,2025-05-31,POS
+186,Tope Olawale,,+2347627258304,Kano,2021-03-25,,Male,Benin Mall,,2023-11-03,POS
+187,Gbenga Ibrahim,FBROWN@HOTMAIL.COM,+2348767986352,Bauchi,2025-05-20,401773.0,f,Abeokuta Branch,Silver,2022-11-23,Cash
+188,Seyi Ojo,,08851559599,Oyo,2025-04-11,66544.0,Female,Enugu Plaza,Gold,2024-05-11,POS
+189,Tunde Olayinka,MYERSTHEODORE@HUGHES.COM,07127469977,Sokoto,2021-05-25,317925.0,female,Kano Plaza,Gold,2024-04-16,Cash
+190,Funke Osagie,ingramjill@anderson-bell.com,+2347272490256,Ogun,2022-04-24,,Female,Kaduna Main,Platinum,2025-09-26,Transfer
+191,Fatima Audu,zwelch@gmail.com,+2347199919532,Yobe,2021-05-12,,f,Benin Mall,Gold,2024-10-08,Cash
+192,Efe Bello,james30@mahoney-robertson.net,07922651533,Katsina,2024-11-06,,female,Abeokuta Branch,,2023-11-26,POS
+193,Yusuf Adewale,JUSTINATKINS@GLENN.COM,+2347034963941,Edo,2021-11-18,,f,Ikeja Mall,Platinum,2024-05-22,Card
+194,Okon Olawale,ypaul@yahoo.com,07774029094,Niger,2022-05-31,353393.0,M,Kaduna Main,Gold,2024-12-07,Card
+195,Fatima Mohammed,,07284970627,Borno,2024-06-07,238343.0,M,Owerri Outlet,Bronze,2023-02-28,POS
+196,Funke Ogunleye,AMYMORRIS@GMAIL.COM,+2347219960683,Kaduna,2023-08-12,,Male,Kaduna Main,Silver,2025-08-20,Card
+197,Ngozi Ibrahim,sean62@hotmail.com,07754169885,Katsina,2024-08-07,,f,Abuja Central,Bronze,2024-04-27,Card
+198,Ibrahim Nnamdi,acostarhonda@hotmail.com,08698824193,Ogun,2024-07-10,342966.0,Female,Abeokuta Branch,,2023-12-29,Transfer
+199,Chika Ojo,lambertrichard@owen.com,07841278903,Kwara,2024-07-20,415937.0,f,Kaduna Main,Bronze,2022-12-22,Cash
+200,Chidinma Okafor,youngdeanna@reyes-bradley.org,08848583996,Taraba,2022-02-16,363058.0,f,Lekki Branch,Bronze,2025-09-17,Cash
+201,Blessing Yakubu,NATHAN19@GMAIL.COM,+2348087937984,Kwara,2025-04-29,,m,Kaduna Main,Bronze,2024-05-21,Card
+202,Blessing Mohammed,debra31@gmail.com,08735295822,Delta,2022-05-29,209855.0,male,Kaduna Main,Silver,,Cash
+203,Fatima Eze,hmcintyre@yahoo.com,08592774685,Cross River,2023-01-14,376143.0,M,Port Harcourt Center,Platinum,2025-10-26,Transfer
+204,Tunde Bello,WENDYMITCHELL@YAHOO.COM,08903561210,Edo,2022-07-11,,m,Kano Plaza,,,Cash
+205,Tope Okeke,melissahayes@wallace.com,+2347358375065,Bauchi,2023-10-12,410447.0,F,Abuja Central,,,Cash
+206,Seyi Adewale,patricia22@hicks-martinez.com,08999651030,Kano,2022-01-02,,Female,Owerri Outlet,Silver,2023-10-31,Transfer
+207,Blessing Mohammed,wardashley@yahoo.com,+2347113112578,Cross River,2025-07-07,275414.0,m,Lekki Branch,Platinum,2023-05-18,Transfer
+208,Yusuf Mohammed,,08210765751,Ondo,2021-06-14,,female,Enugu Plaza,Platinum,2023-05-11,Card
+209,Gbenga Abiola,COLEERIN@YAHOO.COM,08162959460,Sokoto,2021-11-30,368573.0,female,Ikeja Mall,Platinum,2025-03-03,Transfer
+210,Ibrahim Yakubu,ryanbartlett@guerra.com,07128623691,Delta,2023-05-30,53772.0,Female,Abeokuta Branch,Platinum,2023-07-11,Transfer
+211,Efe Mohammed,sarah35@jacobson.net,+2347846862955,Enugu,2023-02-27,,Male,Abuja Central,Gold,2023-05-11,Transfer
+212,Chinonso Nwosu,shawgary@hotmail.com,07435322051,Ogun,2022-02-19,311555.0,Male,Lekki Branch,Silver,2023-07-21,Transfer
+213,Fatima Eze,bryananthony@gmail.com,07662085778,Bayelsa,2025-09-23,67869.0,Male,Kano Plaza,,,Transfer
+214,Funke Mohammed,katiebutler@hotmail.com,07105120650,Ondo,2021-01-30,96156.0,m,Benin Mall,,2024-12-10,Card
+215,Ibrahim Okeke,TIMOTHY64@YAHOO.COM,07132433559,Borno,2021-06-11,,female,Lekki Branch,,2025-10-02,Cash
+216,Chika Mohammed,SCOTTWASHINGTON@PETERSON.COM,+2347197522612,Ekiti,2023-07-17,,M,Port Harcourt Center,,2024-04-17,POS
+217,Tope Okafor,kathleenrobertson@gmail.com,08950568456,Cross River,2023-07-16,238838.0,M,Enugu Plaza,,2023-11-08,Transfer
+218,Tope Osagie,adamsjohn@gmail.com,07822519055,Ogun,2021-04-03,341935.0,,Ikeja Mall,Platinum,2024-01-22,Transfer
+219,Tope Oladipo,kwright@yahoo.com,+2347690640233,Gombe,2025-09-26,,Female,Ikeja Mall,Gold,,POS
+220,Chidinma Bello,kathrynjimenez@hotmail.com,+2347215036855,Benue,2024-10-17,144736.0,Female,Enugu Plaza,Platinum,2024-12-11,Card
+221,Tunde Abiola,zjohnson@hotmail.com,+2348962757105,Abuja,2024-09-17,189382.0,Female,Benin Mall,,2023-11-06,POS
+222,Emeka Mohammed,BRANDON47@KHAN.NET,08026473537,Lagos,2020-11-22,326983.0,Male,Owerri Outlet,Silver,2023-04-13,Transfer
+223,Emeka Okafor,NICOLELUNA@YAHOO.COM,07238200145,Kogi,2023-12-08,,m,Enugu Plaza,Bronze,2023-01-07,Transfer
+224,Funke Olawale,hudsonjames@hotmail.com,+2348046254074,Osun,2023-04-12,,Female,Enugu Plaza,Silver,2023-02-20,Transfer
+225,Funke Olawale,rduran@hotmail.com,+2347840957655,Kano,2021-11-01,171837.0,F,Benin Mall,Silver,2023-05-16,Cash
+226,Seyi Bello,vbrooks@mcmillan.net,+2347190537648,Ekiti,2024-03-28,144047.0,Female,Lekki Branch,Gold,2024-12-13,Cash
+227,Chika Adewale,williamsjennifer@stone-hernandez.net,+2348899560956,Taraba,2022-01-05,,,Kaduna Main,Bronze,2024-03-21,Card
+228,Tunde Okeke,PHILLIPJENSEN@YAHOO.COM,07684439354,Niger,2023-09-08,,Male,Kaduna Main,Silver,2024-12-25,Cash
+229,Yusuf Olayinka,thomas05@yahoo.com,+2347926259804,Imo,2021-10-03,232646.0,M,Lekki Branch,Gold,2024-08-06,Card
+230,Fatima Oladipo,carlsonjoseph@hotmail.com,07604566193,Ondo,2025-09-29,,,Benin Mall,Silver,,Cash
+231,Fatima Mohammed,silvageorge@griffith.com,+2347428798382,Kaduna,,,F,Benin Mall,Bronze,2022-12-17,POS
+232,Tope Ogunleye,andrewedwards@gutierrez.biz,+2347832208149,Cross River,2025-02-03,,Male,Benin Mall,Bronze,2025-06-04,POS
+233,Blessing Abiola,thorntonapril@hotmail.com,08495659979,Kaduna,2023-08-03,,Female,Abeokuta Branch,Bronze,2025-08-22,POS
+234,Gbenga Ogunleye,ledwards@yahoo.com,07847835917,Kano,2025-05-11,477097.0,F,Benin Mall,Silver,2024-04-12,Card
+235,Aisha Yakubu,CHELSEA33@YAHOO.COM,+2347934999877,Akwa Ibom,2025-07-27,333847.0,male,Owerri Outlet,Bronze,,POS
+236,Gbenga Nwosu,shellyhendrix@yahoo.com,+2347026551053,Kogi,2022-08-02,,Male,Port Harcourt Center,,2025-10-05,Cash
+237,Ibrahim Nnamdi,timothy84@yahoo.com,+2348890077202,Sokoto,2021-11-10,,f,Enugu Plaza,,2025-04-06,Card
+238,Blessing Audu,XCARDENAS@GMAIL.COM,+2347083284858,Yobe,2023-04-18,178798.0,M,Benin Mall,Gold,2023-01-02,Cash
+239,Yusuf Ojo,reedscott@yahoo.com,+2348470708531,Kaduna,2024-11-24,124515.0,male,Benin Mall,Gold,2023-09-26,POS
+240,Obinna Mohammed,SARAH42@GILBERT.COM,+2348591166847,Abia,2022-11-20,,M,Abeokuta Branch,Silver,,POS
+241,Funke Ibrahim,,08788703423,Akwa Ibom,2020-11-13,135804.0,f,Ikeja Mall,Gold,2025-03-01,Transfer
+242,Bamidele Okeke,edelgado@santos-avila.com,07065633958,Benue,2023-07-22,,Male,Benin Mall,,2024-01-15,Transfer
+243,Tunde Okon,pearsonjesse@sharp.com,07830143457,Rivers,2024-05-18,305028.0,Female,Abuja Central,Silver,2023-07-29,POS
+244,Chidinma Okafor,lfrench@hayden.com,+2348018115989,Ogun,2023-05-13,320171.0,Female,Kano Plaza,,2025-03-29,Transfer
+245,Blessing Osagie,justin88@small-anderson.net,07468600380,Bayelsa,2024-10-21,,F,Ikeja Mall,,2023-12-26,Transfer
+246,Gbenga Olayinka,riverajessica@scott.com,07137089025,Ekiti,2025-08-27,,male,Kano Plaza,Gold,2025-09-10,Card
+247,Emeka Olayinka,cherylfowler@wilcox-robertson.com,07054664771,Abia,2024-03-26,,m,Kaduna Main,Bronze,2025-09-02,Card
+248,Yusuf Abiola,tinawoods@smith.com,08442826563,Sokoto,2024-08-15,448243.0,,Port Harcourt Center,Gold,,Card
+249,Blessing Oladipo,kevin90@yahoo.com,+2347720765221,Oyo,2023-11-19,,m,Owerri Outlet,Gold,2025-10-09,Transfer
+250,Efe Eze,contrerassteven@sullivan.com,+2348332845823,Enugu,2021-10-27,106996.0,m,Abeokuta Branch,Gold,2025-07-17,Card
+251,Funke Yakubu,christina32@yahoo.com,+2347982627175,Delta,2022-02-15,380216.0,F,Benin Mall,Gold,2024-10-04,Card
+252,Yusuf Adewale,EMILES@HOTMAIL.COM,+2347362078107,Imo,2022-09-06,405330.0,Male,Enugu Plaza,Platinum,2023-11-17,POS
+253,Fatima Ogunleye,,07801229162,Lagos,2025-06-25,401806.0,M,Ikeja Mall,Silver,2024-12-22,Transfer
+254,Okon Balogun,FRANKLINBOND@WILSON-HARRIS.ORG,07140202801,Kano,2024-12-24,,,Enugu Plaza,,2023-03-19,Card
+255,Yusuf Ogunleye,chavezwilliam@yahoo.com,+2348971831102,Yobe,,122608.0,Female,Ikeja Mall,,2025-03-23,Cash
+256,Bamidele Adewale,tchambers@johnson.com,+2348338171758,Rivers,2025-09-28,30145.0,M,Ikeja Mall,Bronze,2023-02-19,POS
+257,Ibrahim Oladipo,ecooper@mcknight.info,08472615492,Lagos,2021-02-03,351902.0,,Kano Plaza,,2024-01-17,Card
+258,Fatima Eze,kaylacannon@hotmail.com,08685259420,Kaduna,2024-05-26,324292.0,male,Abeokuta Branch,Silver,2024-06-01,POS
+259,Okon Olawale,YKANE@YAHOO.COM,08032217964,Ekiti,2021-07-04,11684.0,F,Enugu Plaza,Platinum,2025-09-23,Cash
+260,Chidinma Mohammed,david86@anderson.com,07496412933,Bayelsa,2023-05-12,,f,Ikeja Mall,Bronze,2024-10-17,Cash
+261,Okon Bello,pmorrow@yahoo.com,+2347204007655,Kano,,77558.0,female,Owerri Outlet,Platinum,2024-04-18,Transfer
+262,Ngozi Bello,jacob10@barnes.com,07980409375,Plateau,2022-11-14,,m,Port Harcourt Center,Bronze,2023-09-14,Cash
+263,Tunde Eze,wheelersean@warner.biz,+2348456838167,Anambra,2024-07-22,,M,Port Harcourt Center,Platinum,2023-10-28,Cash
+264,Fatima Okeke,TAYLORVICTORIA@CABRERA.ORG,08513048625,Kogi,2023-07-15,307330.0,female,Abeokuta Branch,,2025-04-13,Cash
+265,Fatima Abiola,kevinthomas@hotmail.com,+2347319232998,Jigawa,2025-04-04,326343.0,M,Port Harcourt Center,,2023-10-07,POS
+266,Tunde Mohammed,joshua89@hotmail.com,07597337895,Rivers,2022-04-25,,m,Abuja Central,Bronze,2025-06-27,POS
+267,Ngozi Ogunleye,wwilliams@hotmail.com,08403107841,Abuja,2024-01-25,221184.0,,Abeokuta Branch,Bronze,2025-01-20,Transfer
+268,Chidinma Oladipo,trussell@yahoo.com,+2347780272022,Rivers,2022-05-22,,female,Abeokuta Branch,,2025-02-10,Transfer
+269,Efe Eze,MELISSATURNER@HOTMAIL.COM,07762655145,Kwara,2022-01-19,201026.0,M,Port Harcourt Center,Platinum,2024-10-17,POS
+270,Ibrahim Okon,jfaulkner@anderson.com,+2347843738798,Katsina,2024-08-25,414689.0,female,Lekki Branch,Platinum,,Cash
+271,Efe Okeke,nicholsmaria@gmail.com,08071226354,Lagos,2023-02-09,,f,Abeokuta Branch,Silver,2024-06-05,Card
+272,Funke Eze,lopezkathleen@powers.com,+2348082568235,Gombe,2023-05-27,324288.0,male,Kaduna Main,Gold,2022-11-21,POS
+273,Funke Balogun,suzannewilson@rocha-dominguez.com,+2347641911065,Jigawa,2024-03-13,378227.0,Female,Abuja Central,,2023-11-04,Transfer
+274,Funke Olawale,oscar85@yahoo.com,07247830892,Sokoto,2023-01-18,,,Kano Plaza,Platinum,2024-05-09,Cash
+275,Chika Audu,UGARCIA@YAHOO.COM,08611010054,Imo,2023-07-19,,Male,Ikeja Mall,Gold,2023-09-09,Cash
+276,Bamidele Okeke,ROBERT93@HOTMAIL.COM,+2348857232952,Borno,2022-01-24,,Female,Abeokuta Branch,Gold,2022-11-23,Cash
+277,Chinonso Audu,mphillips@yahoo.com,+2348185678555,Rivers,,136775.0,f,Abuja Central,Gold,2023-10-21,Card
+278,Aisha Ojo,victorpena@hotmail.com,07373222195,Zamfara,2023-09-11,,male,Abeokuta Branch,Gold,2023-12-02,Transfer
+279,Chika Nwosu,umurray@yahoo.com,08994213954,Osun,2022-04-06,,f,Enugu Plaza,,2023-06-03,Transfer
+280,Chidinma Abiola,sabrinaweaver@hotmail.com,+2347342245525,Taraba,2021-04-28,216506.0,female,Abuja Central,Silver,2025-01-19,Transfer
+281,Bamidele Ojo,landryelizabeth@gutierrez.com,+2348205457050,Lagos,2021-05-27,,Female,Enugu Plaza,,2023-06-20,Cash
+282,Yusuf Audu,williambrooks@little.info,08160150799,Kwara,,,,Abeokuta Branch,Platinum,2022-11-22,Transfer
+283,Aisha Nwosu,hsmith@hill.biz,08660688871,Kebbi,2022-05-07,333693.0,Female,Abuja Central,Platinum,2023-04-13,Card
+284,Gbenga Osagie,johnharvey@ochoa-adams.biz,+2347330185454,Abuja,2021-06-30,178914.0,F,Lekki Branch,Bronze,2024-05-30,Transfer
+285,Gbenga Mohammed,scunningham@gmail.com,07833293678,Anambra,2023-05-17,,M,Kaduna Main,Bronze,2025-09-25,Cash
+286,Zainab Adewale,davisnicholas@alvarez.com,+2347227924342,Kwara,2025-01-28,162994.0,male,Benin Mall,Platinum,2024-09-02,Cash
+287,Tope Olawale,jacobsonsamantha@gmail.com,08712585155,Kebbi,2022-08-15,337422.0,male,Owerri Outlet,Bronze,2025-10-08,Card
+288,Ibrahim Adewale,BRANDON14@HOTMAIL.COM,+2347182808535,Ondo,2025-08-13,,Female,Kaduna Main,,2025-08-16,Card
+289,Seyi Olayinka,sarahedwards@matthews.biz,08717256888,Rivers,2021-06-24,,,Lekki Branch,Gold,2024-02-05,Transfer
+290,Ibrahim Yakubu,ashleyatkinson@mosley.com,07275339924,Benue,2021-06-28,329804.0,Female,Owerri Outlet,Platinum,2024-12-14,Transfer
+291,Zainab Balogun,davisjesse@gmail.com,07919783126,Imo,,134066.0,m,Kano Plaza,Gold,2024-04-10,Transfer
+292,Tope Okeke,anthony47@yahoo.com,07233716308,Cross River,2022-10-06,,Male,Abeokuta Branch,Silver,2024-05-03,Cash
+293,Ngozi Okafor,llopez@hotmail.com,+2348243179979,Yobe,2024-01-21,116547.0,,Kano Plaza,,2023-03-11,POS
+294,Funke Bello,jennifermiller@gmail.com,+2348840746009,Kwara,2024-01-21,267732.0,m,Owerri Outlet,,,Card
+295,Obinna Olawale,gstewart@smith.info,08216242936,Delta,2023-11-20,,M,Abuja Central,Platinum,2023-12-22,Transfer
+296,Bamidele Abiola,CHRISTOPHERJORDAN@PETERS.COM,+2347775781406,Gombe,2025-07-15,243364.0,M,Owerri Outlet,Bronze,2023-03-22,Transfer
+297,Blessing Nnamdi,asmith@yahoo.com,+2347784468848,Enugu,2021-07-18,202304.0,,Kaduna Main,Gold,2025-03-16,Transfer
+298,Tope Ogunleye,,+2347944675269,Imo,2022-03-31,,Female,Port Harcourt Center,Silver,2024-09-03,Cash
+299,Seyi Osagie,yevans@gmail.com,08028246621,Ebonyi,2023-11-23,,M,Abuja Central,Bronze,2023-11-24,Card
+300,Funke Ibrahim,MWHEELER@RODRIGUEZ-TORRES.BIZ,07554608357,Cross River,2023-08-26,217575.0,male,Lekki Branch,Silver,2025-06-18,POS
+301,Tope Olawale,scott69@gmail.com,08251223045,Cross River,2023-05-19,,Male,Owerri Outlet,Platinum,2024-03-10,Cash
+302,Seyi Audu,zedwards@carter-neal.info,08845959098,Zamfara,2025-09-21,438331.0,F,Port Harcourt Center,Platinum,2023-11-09,Cash
+303,Gbenga Ibrahim,yramirez@yahoo.com,+2348936997509,Kebbi,2023-12-06,,,Kaduna Main,Gold,2023-04-23,POS
+304,Seyi Ogunleye,erinpierce@murray.com,+2348592131582,Kaduna,2021-05-30,,Female,Lekki Branch,Gold,2024-07-25,POS
+305,Blessing Yakubu,CYNTHIAALLEN@HOTMAIL.COM,08122147464,Edo,2022-02-18,201623.0,female,Kaduna Main,Gold,2024-08-16,POS
+306,Zainab Okon,colecarla@hotmail.com,+2348314003750,Plateau,2024-03-26,213380.0,m,Abeokuta Branch,,2025-02-05,Transfer
+307,Gbenga Oladipo,gibbsmichael@hotmail.com,+2348662569995,Yobe,2021-07-19,453265.0,Female,Benin Mall,Silver,2023-04-16,POS
+308,Yusuf Oladipo,gabriel90@terrell.com,07835593782,Lagos,2024-06-26,436622.0,f,Enugu Plaza,Platinum,,Transfer
+309,Seyi Bello,,07860378280,Kogi,2024-01-03,318247.0,Male,Benin Mall,Platinum,,Transfer
+310,Aisha Adewale,lbarton@hotmail.com,+2348321110443,Imo,2025-01-29,193607.0,M,Port Harcourt Center,Bronze,2023-06-20,POS
+311,Bamidele Audu,webbkenneth@gmail.com,08511016577,Enugu,2021-10-23,,,Enugu Plaza,Gold,2023-06-06,Transfer
+312,Seyi Olayinka,matthew38@yahoo.com,07009988917,Niger,2023-10-15,270414.0,,Lekki Branch,,2024-11-06,Cash
+313,Chidinma Okon,cbowen@jones-williams.com,+2348490765670,Anambra,2021-01-06,,Female,Owerri Outlet,Platinum,2024-04-13,Cash
+314,Tope Eze,sarahyang@thompson.info,+2347473267438,Borno,2022-10-18,,,Abeokuta Branch,Bronze,2024-07-19,Transfer
+315,Seyi Ojo,DANIELLEREYNOLDS@MCLAUGHLIN.INFO,+2347163270652,Jigawa,2024-06-23,,female,Abuja Central,,2024-06-24,Card
+316,Tope Yakubu,jamiegoodwin@ray.com,07492219424,Akwa Ibom,2023-12-08,,Male,Lekki Branch,Bronze,2024-03-18,POS
+317,Obinna Okafor,qwilson@rose-fowler.org,08035714360,Bauchi,2024-02-17,,f,Port Harcourt Center,,2025-06-04,Card
+318,Zainab Balogun,BAILEYMEGAN@HOTMAIL.COM,08161290329,Kano,2022-04-17,211421.0,f,Lekki Branch,,2025-09-09,Cash
+319,Chika Yakubu,powerslawrence@gmail.com,08850791654,Niger,2023-06-03,142808.0,male,Benin Mall,,2023-04-28,Card
+320,Tope Osagie,heather86@carlson-andrews.biz,08834651306,Yobe,2022-05-28,99313.0,Female,Lekki Branch,Gold,2024-11-23,POS
+321,Chinonso Yakubu,TRACYTAYLOR@WILKINSON-HARVEY.COM,08730159645,Lagos,2020-11-26,266933.0,,Abeokuta Branch,Gold,2024-11-19,Transfer
+322,Blessing Oladipo,,07350774025,Rivers,2024-12-24,,F,Benin Mall,Gold,2023-07-15,Transfer
+323,Gbenga Oladipo,flynnjeffrey@hill.com,07260355534,Sokoto,2022-04-03,322496.0,,Port Harcourt Center,Gold,2024-10-08,POS
+324,Efe Mohammed,armstrongjoseph@hotmail.com,+2347311059431,Imo,2023-12-11,,m,Enugu Plaza,,2025-02-17,Cash
+325,Ngozi Olawale,bpayne@fitzgerald.com,+2348525644291,Plateau,2023-05-10,,f,Owerri Outlet,,2022-12-18,POS
+326,Fatima Olawale,,+2348421682599,Niger,2022-11-03,372366.0,Female,Port Harcourt Center,Platinum,2023-09-20,Cash
+327,Tope Oladipo,IMARTIN@GMAIL.COM,+2347178780606,Kaduna,2022-08-01,86408.0,m,Kano Plaza,Silver,2023-01-29,Transfer
+328,Efe Balogun,CANDICE25@HOTMAIL.COM,08424960915,Sokoto,2023-04-25,,f,Abeokuta Branch,Gold,2024-01-21,Card
+329,Gbenga Olawale,taylorkaren@yahoo.com,+2348883973903,Adamawa,2021-04-30,,female,Benin Mall,,2024-01-02,Cash
+330,Efe Ojo,johndawson@juarez.biz,07000198317,Kogi,2024-12-26,449568.0,female,Kano Plaza,Platinum,2023-06-06,POS
+331,Tope Ojo,EBROOKS@HOTMAIL.COM,07496531275,Lagos,2021-08-13,,,Kaduna Main,Platinum,2024-07-15,POS
+332,Chinonso Abiola,shawn75@hotmail.com,08641833479,Plateau,2020-11-04,,m,Abuja Central,Bronze,2023-03-22,Transfer
+333,Ibrahim Okeke,melissa86@gmail.com,+2347403274764,Osun,,31021.0,Male,Lekki Branch,Gold,2024-08-26,POS
+334,Chika Abiola,,07902465038,Ondo,2023-09-30,,f,Ikeja Mall,Gold,,Card
+335,Emeka Okon,garciakristen@smith-noble.com,07412729807,Niger,2024-07-30,439242.0,F,Abuja Central,Platinum,2024-10-07,POS
+336,Seyi Adewale,SHARRIS@KHAN.COM,08430241027,Katsina,2023-02-26,,female,Port Harcourt Center,Bronze,2023-03-22,Cash
+337,Blessing Ogunleye,christopher20@yahoo.com,+2348854690708,Katsina,2023-06-04,,female,Ikeja Mall,Silver,2025-10-19,Cash
+338,Chinonso Abiola,,+2348020636008,Delta,2021-12-14,51913.0,Male,Benin Mall,Bronze,2025-05-08,Transfer
+339,Emeka Adewale,ssmith@montoya-mcneil.biz,+2347230621825,Ogun,2021-12-12,,f,Abuja Central,Bronze,2024-11-09,Transfer
+340,Funke Okon,patrickcross@garcia.com,07632894782,Kebbi,2021-12-28,104497.0,,Owerri Outlet,Gold,2024-06-14,Transfer
+341,Obinna Oladipo,CASEYELLIOTT@SANTOS.COM,08759687936,Niger,2024-04-29,243068.0,,Kaduna Main,Silver,2025-06-12,Transfer
+342,Obinna Abiola,christophergarcia@gmail.com,+2348758895912,Gombe,2024-02-03,,,Port Harcourt Center,,2024-04-27,POS
+343,Yusuf Eze,KYLIE34@HOTMAIL.COM,07278688115,Cross River,2021-07-16,110947.0,f,Abuja Central,Bronze,,POS
+344,Tope Ibrahim,kimberly04@holmes.com,07473998574,Enugu,,487887.0,f,Lekki Branch,Platinum,2024-06-28,Cash
+345,Bamidele Oladipo,bowerslaura@gmail.com,+2348705637983,Rivers,2025-01-12,144363.0,F,Kano Plaza,Bronze,2024-06-19,Cash
+346,Ibrahim Abiola,victorwheeler@oneal.com,+2347534214528,Cross River,2021-12-12,,F,Enugu Plaza,Gold,2024-06-20,POS
+347,Ibrahim Olawale,amy27@gmail.com,+2348412038975,Imo,2020-12-18,,female,Owerri Outlet,,2025-04-28,Transfer
+348,Bamidele Osagie,bakerbill@fry.net,+2348306557769,Benue,2023-04-06,,,Kano Plaza,Gold,2025-07-01,POS
+349,Chinonso Okafor,fmiles@hotmail.com,+2348111557636,Ogun,2025-05-22,163251.0,male,Abuja Central,Silver,2025-02-10,Cash
+350,Blessing Oladipo,christopher18@mccann.net,+2347202480065,Kano,2023-08-09,86845.0,male,Owerri Outlet,,2024-06-26,Transfer
+351,Okon Mohammed,holly30@miller.com,07165789102,Osun,2024-09-05,,F,Enugu Plaza,Gold,,POS
+352,Ngozi Adewale,elizabeth21@zimmerman.com,+2347932661596,Taraba,2022-03-21,68197.0,M,Kaduna Main,Bronze,2024-12-08,Cash
+353,Yusuf Oladipo,gary24@hotmail.com,+2347328989090,Rivers,2021-10-29,,,Lekki Branch,Silver,2022-12-13,POS
+354,Funke Balogun,enelson@yahoo.com,+2348177148326,Yobe,2025-09-23,,Male,Port Harcourt Center,Platinum,2025-06-29,POS
+355,Chinonso Nnamdi,XGIBSON@PORTER.COM,+2347528808915,Benue,2023-12-14,,female,Enugu Plaza,Bronze,2023-06-30,POS
+356,Fatima Bello,shannonemily@gmail.com,+2347051983771,Ondo,2022-10-07,,Male,Benin Mall,Bronze,2024-12-27,Card
+357,Aisha Bello,TREVINOALEXANDER@RUIZ.COM,08588239459,Rivers,2022-05-07,330584.0,male,Ikeja Mall,Gold,2022-12-22,Cash
+358,Okon Okeke,marcbutler@hotmail.com,+2347454998776,Katsina,2023-07-19,,,Benin Mall,,2023-12-24,Card
+359,Chika Audu,david02@brock.biz,07365758663,Rivers,2021-05-30,,M,Benin Mall,Bronze,,Transfer
+360,Bamidele Eze,KIARA45@GMAIL.COM,+2347496430820,Gombe,2025-07-12,377081.0,female,Benin Mall,,2024-10-07,Card
+361,Aisha Ibrahim,james94@dean.info,+2347085367635,Benue,2022-06-27,,f,Kaduna Main,Silver,,Transfer
+362,Bamidele Ojo,adamortiz@weaver.com,+2348743526654,Rivers,2023-09-03,,M,Abeokuta Branch,Gold,2022-10-31,Transfer
+363,Chinonso Balogun,DALTON83@YAHOO.COM,+2348315222902,Borno,2025-01-03,305363.0,m,Kano Plaza,,2023-01-30,Card
+364,Aisha Balogun,christopher38@haynes-watson.com,07296588205,Ondo,2025-10-06,476147.0,m,Port Harcourt Center,,2023-03-26,Transfer
+365,Ngozi Oladipo,kjones@graham.com,08802860852,Delta,2023-04-22,,m,Kaduna Main,Gold,2023-12-08,Transfer
+366,Funke Yakubu,VHAYNES@YAHOO.COM,+2348314220478,Plateau,2023-07-13,326054.0,Female,Abuja Central,Bronze,2024-10-01,POS
+367,Funke Ibrahim,charlesharris@hotmail.com,+2347395086475,Gombe,2021-10-01,77096.0,Female,Abuja Central,Bronze,2023-06-27,Cash
+368,Blessing Osagie,shannonedwards@herrera.info,07439293783,Enugu,2023-06-12,,female,Benin Mall,Silver,2024-10-17,Cash
+369,Obinna Audu,davislindsey@yahoo.com,+2348228219880,Kebbi,2021-03-02,464162.0,,Lekki Branch,Platinum,2023-09-28,Cash
+370,Seyi Ibrahim,christopherwright@yahoo.com,07831930559,Kogi,2024-03-12,30845.0,male,Benin Mall,Platinum,2025-01-03,Transfer
+371,Efe Olawale,jorge20@bond-hawkins.net,08110183865,Delta,2022-12-13,,F,Abeokuta Branch,Bronze,2023-03-25,Card
+372,Chinonso Osagie,,08925471436,Akwa Ibom,2021-05-07,,female,Port Harcourt Center,Bronze,,POS
+373,Bamidele Mohammed,jamesmorales@mccoy.com,+2348098795338,Imo,2021-06-17,204547.0,Male,Owerri Outlet,,2022-12-01,Card
+374,Tunde Balogun,RACHELRAMOS@DAVIS.COM,07664685496,Anambra,2021-03-09,99736.0,Male,Abuja Central,Bronze,2024-10-14,Transfer
+375,Chika Okeke,sandrahamilton@foster.com,+2348305635539,Abia,2023-11-01,,f,Kaduna Main,Platinum,,Cash
+376,Seyi Oladipo,joshuagriffin@johnson.org,+2347445898359,Rivers,2022-11-30,,M,Port Harcourt Center,Bronze,2025-07-30,Transfer
+377,Yusuf Mohammed,JJENKINS@YAHOO.COM,08443303352,Kwara,2021-05-05,367552.0,f,Enugu Plaza,Gold,2023-03-14,Cash
+378,Okon Nwosu,mtaylor@hotmail.com,07917670947,Jigawa,2025-04-18,251843.0,F,Kano Plaza,Gold,2023-11-20,Card
+379,Aisha Olayinka,WCASEY@STEPHENS-WASHINGTON.ORG,+2348135904213,Oyo,2025-02-04,,m,Enugu Plaza,Gold,2024-03-11,Transfer
+380,Funke Olayinka,hector59@gmail.com,+2348057645258,Cross River,2021-01-27,,Female,Ikeja Mall,Bronze,,Cash
+381,Aisha Olayinka,stokesthomas@yahoo.com,08203483120,Katsina,,,male,Lekki Branch,Gold,2025-04-23,Transfer
+382,Chika Eze,craigsandoval@ferguson-moody.com,+2348322835631,Abuja,2022-09-09,,female,Benin Mall,Platinum,2025-04-10,Card
+383,Tope Balogun,savannah22@gmail.com,+2347719642503,Bayelsa,2023-07-13,222030.0,,Kano Plaza,,2025-10-16,Transfer
+384,Gbenga Oladipo,WARNERMICHAEL@HOTMAIL.COM,08967495418,Sokoto,2025-08-14,,M,Owerri Outlet,Platinum,2023-06-06,Card
+385,Zainab Olayinka,lweaver@johnson-brown.org,+2348613920314,Ondo,2022-09-07,169888.0,male,Kaduna Main,Bronze,2022-11-28,Card
+386,Bamidele Okeke,riverachristina@gmail.com,+2347375837015,Edo,2023-09-21,24605.0,F,Benin Mall,,,POS
+387,Chidinma Balogun,BRIAN29@STARK.COM,+2348124482484,Ondo,2021-06-10,80127.0,,Port Harcourt Center,Silver,2024-05-31,POS
+388,Chinonso Ibrahim,ROGERSMARCUS@GMAIL.COM,08821332467,Oyo,2024-07-16,471189.0,F,Abeokuta Branch,Gold,,Transfer
+389,Aisha Nwosu,grant89@yahoo.com,+2348659547659,Anambra,2022-09-21,147949.0,Male,Kano Plaza,Bronze,,Cash
+390,Aisha Oladipo,sparker@anderson-daniel.org,08512588040,Kwara,2024-02-26,94797.0,male,Enugu Plaza,Gold,2025-03-28,Cash
+391,Funke Okafor,carriemccall@walker.com,07115534359,Oyo,2023-08-22,,female,Kano Plaza,Gold,2023-02-26,Cash
+392,Efe Nnamdi,TONI21@SANTIAGO.COM,+2348005614849,Kaduna,2023-01-29,,f,Abuja Central,Silver,2023-09-19,Transfer
+393,Bamidele Audu,BELLKRISTIN@SMITH.COM,08848535865,Osun,2024-05-06,20867.0,f,Lekki Branch,Gold,2024-12-02,Card
+394,Okon Bello,amy17@hotmail.com,08755681462,Kaduna,2022-09-28,345499.0,male,Abeokuta Branch,Platinum,2023-07-08,POS
+395,Seyi Olayinka,lloydarthur@gmail.com,07141862631,Ekiti,2023-07-15,,m,Enugu Plaza,Gold,2023-12-08,Card
+396,Tunde Mohammed,petersonpamela@dennis.com,+2347245506472,Bayelsa,2023-09-12,,Male,Kano Plaza,Platinum,,Cash
+397,Obinna Audu,reynoldsdesiree@hotmail.com,07467317722,Ogun,2024-07-08,478566.0,Male,Port Harcourt Center,Platinum,2023-06-30,POS
+398,Obinna Nnamdi,riveraterri@terry-bowen.net,+2347643676720,Ondo,2023-01-30,,female,Lekki Branch,,,POS
+399,Funke Ojo,JOHN06@HOTMAIL.COM,+2347001811007,Jigawa,2025-07-01,193347.0,male,Ikeja Mall,Silver,2024-11-29,POS
+400,Yusuf Audu,wardronald@colon-weber.info,07372395375,Ebonyi,2022-07-10,,female,Kaduna Main,Silver,2023-03-28,Card
+401,Funke Okafor,,+2348045183159,Adamawa,2024-03-15,76185.0,Male,Kaduna Main,Platinum,2024-10-29,POS
+402,Obinna Olawale,christopher86@gmail.com,+2347826168571,Sokoto,2023-12-24,227702.0,f,Abuja Central,,2024-06-12,Transfer
+403,Emeka Adewale,seanbaker@yahoo.com,08034084046,Oyo,2023-01-24,,f,Abeokuta Branch,Bronze,2023-10-15,Cash
+404,Seyi Ogunleye,hernandezheather@gmail.com,+2348469037766,Kebbi,2021-07-21,168839.0,female,Abeokuta Branch,Bronze,2025-08-31,POS
+405,Zainab Nwosu,larellano@gmail.com,+2347621070404,Imo,,,male,Ikeja Mall,Platinum,2025-03-06,Cash
+406,Okon Olayinka,ACARDENAS@MCDANIEL.COM,07165060438,Plateau,2024-11-15,,male,Kano Plaza,Bronze,2024-02-05,Card
+407,Zainab Balogun,torr@shaw.org,08680465450,Benue,2022-01-29,424101.0,female,Lekki Branch,Silver,2023-05-03,Card
+408,Tope Osagie,stacyjackson@gmail.com,08369181181,Imo,2022-06-18,,M,Kano Plaza,Bronze,,POS
+409,Chinonso Ogunleye,hendersonvanessa@harris-carson.com,+2348143579781,Borno,2023-01-07,,f,Kano Plaza,Silver,2024-03-08,POS
+410,Chika Ojo,hughesray@gates-stone.com,+2348138710544,Kano,2025-10-27,,m,Enugu Plaza,Gold,2025-01-17,Transfer
+411,Ibrahim Okon,perryeddie@hotmail.com,+2348608660487,Benue,2025-10-12,313661.0,,Owerri Outlet,Silver,2023-04-02,Cash
+412,Chika Mohammed,FLOYDMIKAYLA@HUMPHREY-BAKER.INFO,07957653588,Sokoto,2025-09-09,,Female,Ikeja Mall,Bronze,2025-05-31,Cash
+413,Obinna Yakubu,jacksonrichard@hotmail.com,+2347257648888,Oyo,2024-03-29,,Male,Lekki Branch,Silver,2022-12-28,POS
+414,Ngozi Okeke,hannah07@yahoo.com,08940018456,Osun,2023-12-29,414328.0,male,Ikeja Mall,Platinum,2022-11-29,Cash
+415,Blessing Okon,LARRY71@GMAIL.COM,+2347430933642,Yobe,2021-12-19,262979.0,Male,Abeokuta Branch,Platinum,2024-02-07,Cash
+416,Efe Okon,JOSEPH69@HOTMAIL.COM,+2347538151562,Anambra,,265938.0,M,Ikeja Mall,Platinum,2023-03-16,Transfer
+417,Chinonso Nnamdi,ALEWIS@WASHINGTON.COM,+2348026796600,Adamawa,2025-03-16,386559.0,,Abuja Central,Bronze,2023-07-02,POS
+418,Ibrahim Nnamdi,jenna62@suarez.com,07650318345,Yobe,2021-04-25,344253.0,female,Abeokuta Branch,Gold,,POS
+419,Okon Yakubu,,07410176161,Ondo,2021-11-16,475003.0,female,Benin Mall,Bronze,2025-09-21,POS
+420,Aisha Balogun,,+2347512142919,Abia,2025-07-06,,f,Abeokuta Branch,Platinum,2024-04-24,Cash
+421,Emeka Nwosu,MARYGREEN@HOTMAIL.COM,07253804893,Katsina,2021-08-04,,,Port Harcourt Center,,2024-01-14,Cash
+422,Emeka Balogun,,+2348327943946,Kano,2022-08-01,345150.0,M,Port Harcourt Center,Bronze,2023-12-21,Cash
+423,Efe Olayinka,HANCOCKTAMMY@HOTMAIL.COM,+2347228344512,Edo,2020-11-24,423997.0,F,Abuja Central,Platinum,2024-11-03,POS
+424,Yusuf Eze,carolynsmith@franklin-hahn.com,08796213496,Katsina,2024-06-05,315947.0,female,Lekki Branch,Bronze,2024-06-04,POS
+425,Tunde Bello,dking@yahoo.com,+2347087400222,Ogun,2025-04-02,,Male,Ikeja Mall,Platinum,,Cash
+426,Tunde Mohammed,smithyvonne@yahoo.com,08489287487,Ebonyi,2025-08-07,113087.0,male,Abeokuta Branch,Platinum,2025-07-30,Card
+427,Obinna Adewale,gabrielle71@yahoo.com,+2347189024066,Ondo,2023-03-06,7396.0,Female,Lekki Branch,,2025-07-20,Transfer
+428,Gbenga Ibrahim,jose43@gmail.com,+2347593621579,Rivers,2025-03-23,422654.0,f,Benin Mall,Silver,2023-11-06,Cash
+429,Emeka Bello,rguerrero@griffith.info,08729054351,Bayelsa,,393191.0,,Port Harcourt Center,Silver,2024-01-31,POS
+430,Chidinma Eze,VSULLIVAN@GMAIL.COM,08245028929,Osun,2025-10-13,,Female,Lekki Branch,Gold,2025-04-04,Card
+431,Fatima Yakubu,jessica38@glover.net,08040257650,Rivers,2023-05-18,80990.0,f,Port Harcourt Center,Platinum,2023-07-20,POS
+432,Aisha Bello,connor24@stokes.com,08486510791,Rivers,2021-08-01,,f,Kaduna Main,Silver,2023-10-09,Card
+433,Okon Olayinka,JULIEPARKER@YAHOO.COM,+2348944714168,Imo,2023-12-26,294803.0,F,Kaduna Main,,2023-12-07,Card
+434,Zainab Ogunleye,eyork@gmail.com,+2348580932048,Benue,2025-10-15,232671.0,Male,Enugu Plaza,Bronze,2025-04-17,Cash
+435,Emeka Ogunleye,gpreston@dillon.net,07846796094,Ebonyi,2023-05-12,370247.0,f,Benin Mall,Silver,,Cash
+436,Fatima Yakubu,PITTSEDWARD@GMAIL.COM,+2347194840139,Abuja,2023-09-27,164822.0,f,Enugu Plaza,,,POS
+437,Efe Balogun,tthomas@gmail.com,+2347795471879,Bayelsa,2021-07-06,5714.0,m,Owerri Outlet,,,POS
+438,Blessing Olayinka,crystal25@hotmail.com,+2347173858214,Ekiti,2021-04-26,,M,Lekki Branch,Platinum,2022-11-05,Cash
+439,Bamidele Bello,JASON29@GMAIL.COM,08523289889,Katsina,2024-12-27,180599.0,,Lekki Branch,Platinum,2023-03-14,Card
+440,Seyi Nwosu,zschultz@sanford-reyes.com,+2347595165084,Rivers,2025-05-13,,f,Abeokuta Branch,,2023-09-03,POS
+441,Gbenga Oladipo,mcclainkatherine@hotmail.com,08445914646,Enugu,2022-06-12,,F,Lekki Branch,Platinum,2022-11-25,Transfer
+442,Ngozi Eze,JEREMYWILEY@ANDERSON-REYES.ORG,07323192140,Katsina,2023-06-06,333873.0,male,Kaduna Main,,2023-07-15,POS
+443,Bamidele Osagie,evanskelly@meyer.com,07135183055,Abuja,2023-09-27,,m,Enugu Plaza,Gold,2024-11-28,Transfer
+444,Tope Nnamdi,frederickmeadows@yahoo.com,+2347983562737,Ondo,2020-12-26,,Male,Kano Plaza,Silver,2023-10-18,Transfer
+445,Emeka Balogun,jasonjohnson@jackson.com,08984557598,Imo,2024-01-06,154551.0,Male,Port Harcourt Center,Silver,2025-07-19,Cash
+446,Yusuf Nnamdi,WHEELERBRANDON@GMAIL.COM,08207932155,Kano,2020-12-28,185274.0,female,Benin Mall,,2023-01-11,Transfer
+447,Ibrahim Okafor,hwallace@king.com,07983634984,Osun,2023-05-21,,male,Benin Mall,Gold,2024-08-12,Card
+448,Zainab Okeke,cindy26@hunt.com,07086073119,Ogun,2023-03-25,,M,Kaduna Main,,2023-04-24,POS
+449,Bamidele Mohammed,mgonzalez@decker-dudley.com,08130508065,Borno,2024-04-23,,Female,Ikeja Mall,Bronze,2024-01-30,POS
+450,Ngozi Ibrahim,kelleyrenee@fitzpatrick.com,+2348098557796,Rivers,2021-10-06,,Male,Kaduna Main,Gold,2025-04-07,Cash
+451,Okon Bello,stacychan@gmail.com,+2347188116633,Katsina,2021-09-07,,f,Kano Plaza,Silver,2023-11-30,POS
+452,Fatima Balogun,shinton@marshall-garcia.com,07651183908,Ebonyi,2021-02-27,,F,Enugu Plaza,Platinum,,POS
+453,Blessing Osagie,LAURIE56@HOTMAIL.COM,+2348964672907,Ogun,2021-10-23,,male,Abeokuta Branch,Platinum,,Transfer
+454,Zainab Ojo,smithdevon@jackson.org,08699131053,Lagos,2023-02-08,,F,Kano Plaza,Platinum,2023-03-22,Card
+455,Chika Eze,ian66@yahoo.com,+2348286109325,Bauchi,2023-02-19,,male,Benin Mall,Bronze,2024-06-19,Cash
+456,Blessing Olawale,zbanks@gmail.com,08488814006,Ogun,2021-10-14,,female,Kaduna Main,Gold,,Transfer
+457,Chidinma Mohammed,jarvismegan@perry.info,07202955777,Imo,2025-08-30,,male,Kano Plaza,Gold,,Transfer
+458,Funke Okafor,CHERYLMAXWELL@HOTMAIL.COM,+2347884751456,Ekiti,2021-01-25,90474.0,Female,Port Harcourt Center,,2025-09-26,Card
+459,Gbenga Olayinka,hknapp@alexander-brown.com,+2348530183301,Jigawa,2020-12-05,425783.0,m,Benin Mall,Bronze,2025-10-27,Card
+460,Chika Ogunleye,april91@stanley-wright.com,07949054416,Kogi,2024-02-05,184330.0,male,Ikeja Mall,Bronze,2023-06-16,Card
+461,Seyi Ojo,SCHNEIDERERIC@CHRISTIAN-BOOTH.COM,08483520654,Edo,2025-01-02,,m,Ikeja Mall,Silver,2024-03-10,Cash
+462,Tope Eze,,07022059796,Kaduna,2022-10-28,487396.0,Female,Port Harcourt Center,Gold,,Card
+463,Blessing Nnamdi,kwallace@miller-jimenez.com,+2348564557989,Benue,2021-10-31,40828.0,M,Abeokuta Branch,Silver,2024-12-09,Transfer
+464,Tunde Oladipo,POWELLBARRY@SMITH.ORG,+2348976709681,Zamfara,2023-06-01,,Male,Benin Mall,Bronze,2024-12-26,Transfer
+465,Chinonso Osagie,xclements@velasquez.com,07674911753,Edo,2025-08-03,277486.0,f,Owerri Outlet,Gold,2025-06-17,Cash
+466,Ngozi Nwosu,jennifer11@hotmail.com,08580922537,Ondo,2022-09-16,,Female,Abeokuta Branch,Platinum,2022-11-01,POS
+467,Aisha Mohammed,maria48@hotmail.com,+2347789074384,Cross River,,,F,Kaduna Main,Platinum,2024-05-31,Cash
+468,Ibrahim Balogun,princetravis@newton.com,+2348592213426,Imo,2022-06-02,,Female,Enugu Plaza,Platinum,2023-05-04,POS
+469,Tope Okon,stephenharrington@hotmail.com,+2348624148194,Yobe,2023-09-12,,f,Abeokuta Branch,Gold,2023-04-14,POS
+470,Ibrahim Eze,housemary@hotmail.com,+2347289069297,Abuja,2021-11-14,32709.0,f,Ikeja Mall,Silver,2024-09-27,Transfer
+471,Funke Ojo,tamarasmith@hotmail.com,08614069646,Kogi,2021-03-27,,Female,Kano Plaza,Platinum,2025-03-06,Transfer
+472,Gbenga Nwosu,xglass@gmail.com,08640602147,Kano,2025-09-29,466439.0,m,Benin Mall,Gold,2023-07-25,POS
+473,Efe Adewale,HUGHESCAROLINE@GORDON-CRUZ.ORG,+2347650783258,Imo,2022-12-08,,m,Benin Mall,Bronze,2023-12-28,POS
+474,Gbenga Oladipo,tara72@gmail.com,+2348088097859,Rivers,2024-05-02,,female,Kano Plaza,Gold,,Cash
+475,Funke Bello,jennifer83@gmail.com,08914144276,Ekiti,2022-08-10,,female,Kaduna Main,Gold,,Card
+476,Seyi Abiola,samantha22@hotmail.com,+2347140660687,Ondo,2025-06-09,94013.0,,Owerri Outlet,Bronze,2025-10-11,POS
+477,Zainab Ibrahim,hodgesanna@hotmail.com,+2348262697275,Abuja,2025-09-04,,female,Enugu Plaza,Bronze,2025-08-30,Cash
+478,Aisha Nwosu,natalie60@hotmail.com,+2347357829229,Ondo,2021-09-23,233584.0,f,Lekki Branch,,2022-12-07,Transfer
+479,Emeka Ojo,brianbrown@yahoo.com,08595339876,Oyo,2022-03-12,308139.0,female,Kano Plaza,Bronze,2024-01-17,POS
+480,Fatima Yakubu,maryvaughn@yahoo.com,+2348083705140,Ondo,2022-07-23,,Female,Kaduna Main,Platinum,2025-02-15,POS
+481,Gbenga Olawale,lisa19@stevenson.net,+2347400589313,Abia,2024-02-18,,male,Abeokuta Branch,,2023-11-02,POS
+482,Zainab Adewale,housepaul@hotmail.com,07323137558,Ondo,2023-06-26,,F,Abuja Central,Platinum,2025-03-04,Transfer
+483,Tunde Okon,manningjames@greer-pruitt.com,07322041480,Akwa Ibom,,,f,Benin Mall,,2025-04-30,POS
+484,Emeka Yakubu,KELLYTHOMPSON@JONES.COM,08725585109,Plateau,2024-01-12,97266.0,f,Ikeja Mall,Bronze,2022-12-31,Cash
+485,Yusuf Olayinka,angela22@hotmail.com,+2348925805886,Bauchi,2022-12-29,469372.0,m,Port Harcourt Center,Silver,2022-11-06,Cash
+486,Chidinma Nnamdi,jmckinney@gmail.com,08899588581,Oyo,2022-02-17,,female,Enugu Plaza,Platinum,2024-03-13,Card
+487,Fatima Yakubu,TRACY98@JONES-ZIMMERMAN.NET,+2347943766270,Taraba,2022-09-11,314057.0,f,Abeokuta Branch,Gold,2023-08-10,Cash
+488,Yusuf Oladipo,robertherrera@bailey.com,+2348888569146,Delta,2023-08-22,,male,Ikeja Mall,,,Cash
+489,Seyi Okon,jeffery98@yahoo.com,+2347779225381,Edo,2025-08-07,,m,Ikeja Mall,Platinum,2025-08-02,Transfer
+490,Okon Mohammed,caldwellsean@austin.com,08845583380,Imo,2024-01-25,,m,Ikeja Mall,Gold,2023-04-23,POS
+491,Tope Osagie,amber40@hotmail.com,08972562931,Kaduna,2024-01-05,,,Lekki Branch,Gold,2025-01-04,Transfer
+492,Efe Okafor,pwilliams@gmail.com,07952204921,Ogun,,,female,Enugu Plaza,Bronze,2024-03-09,Card
+493,Chidinma Balogun,jacksonstephanie@ferguson.com,+2347685904413,Anambra,2024-06-06,390441.0,male,Port Harcourt Center,,2023-04-08,Transfer
+494,Aisha Mohammed,elucas@parks.com,+2348792459614,Borno,,17042.0,F,Benin Mall,Silver,2023-03-13,Card
+495,Emeka Audu,thompsonjohnathan@andrews.com,07790102512,Imo,2024-04-16,66525.0,,Kaduna Main,Platinum,2024-06-22,POS
+496,Ibrahim Abiola,bhamilton@yahoo.com,+2348679594091,Plateau,2021-10-30,,Male,Kaduna Main,Silver,2025-02-05,Transfer
+497,Aisha Osagie,AVILABRENDA@CHARLES.COM,07562210072,Benue,2023-05-22,480701.0,female,Enugu Plaza,Platinum,,POS
+498,Funke Nwosu,kathy76@short-johnson.com,07823550217,Adamawa,2025-05-12,139336.0,F,Abeokuta Branch,Bronze,,Card
+499,Tope Bello,julierobles@phillips.com,+2348284693581,Kano,,,male,Kaduna Main,Gold,2022-11-15,Cash
+500,Zainab Olawale,williamsashley@medina-arroyo.com,+2348885268914,Bayelsa,2022-08-11,,Male,Kano Plaza,Bronze,2024-04-15,Card
+501,Tope Okon,gwhitehead@martin.org,08883206544,Niger,2022-12-22,,,Owerri Outlet,Platinum,2023-08-26,Transfer
+502,Tope Balogun,emilybradley@york.info,+2347944870465,Rivers,2025-07-01,33608.0,Male,Ikeja Mall,Platinum,2023-02-19,POS
+503,Fatima Eze,kingjames@hotmail.com,07765621110,Jigawa,2024-12-19,263467.0,Male,Lekki Branch,Gold,,Transfer
+504,Tunde Olawale,david31@yahoo.com,+2348424077318,Katsina,2021-06-01,7163.0,m,Lekki Branch,Silver,2023-08-25,Cash
+505,Yusuf Okafor,nhayes@hotmail.com,07802210356,Kaduna,2023-06-04,85622.0,F,Benin Mall,Platinum,2025-10-10,Transfer
+506,Obinna Okafor,,+2347973029134,Osun,2023-03-06,389994.0,Female,Ikeja Mall,Gold,2024-05-09,Cash
+507,Ngozi Oladipo,natalie77@hampton-tucker.com,07382275285,Benue,2022-04-27,,F,Ikeja Mall,Silver,2025-07-27,POS
+508,Okon Balogun,MICHELE28@BAKER.COM,08731630303,Ondo,2021-06-19,321414.0,female,Lekki Branch,Gold,2022-11-26,POS
+509,Efe Audu,nhammond@arnold.net,08624551281,Adamawa,2024-11-02,326843.0,m,Kaduna Main,Bronze,,Transfer
+510,Efe Abiola,philip94@marshall.com,+2348132322413,Kogi,2024-03-13,,F,Benin Mall,Gold,2024-05-16,Card
+511,Okon Abiola,melaniedrake@sutton.com,07164352335,Kano,2022-05-07,,m,Lekki Branch,Platinum,2025-03-26,Transfer
+512,Bamidele Okon,ccrosby@juarez.com,08590246354,Bayelsa,2023-01-27,,M,Lekki Branch,Platinum,2024-05-24,Transfer
+513,Yusuf Nnamdi,barnettapril@hughes-hardin.com,08734810455,Niger,2021-02-28,486355.0,Female,Port Harcourt Center,Bronze,2025-08-01,Transfer
+514,Ibrahim Osagie,,07368798858,Ebonyi,2023-01-24,,male,Enugu Plaza,,2025-04-14,POS
+515,Okon Mohammed,,07034113306,Akwa Ibom,2022-09-20,,Male,Abuja Central,Platinum,2025-01-08,Card
+516,Ngozi Ojo,lisa57@yahoo.com,07250093414,Imo,2020-11-17,,f,Benin Mall,Bronze,2024-12-16,Card
+517,Aisha Ojo,emartin@schneider.com,07016909888,Kaduna,2021-10-30,,m,Benin Mall,,2025-08-20,Transfer
+518,Emeka Ogunleye,ushepherd@olson.info,+2348457428249,Abia,2022-08-13,36826.0,m,Enugu Plaza,Gold,2025-05-03,Transfer
+519,Fatima Ogunleye,CJOHNSON@BERRY.COM,+2347962771444,Adamawa,,156000.0,f,Owerri Outlet,Platinum,2025-07-02,Card
+520,Zainab Nwosu,brianscott@black.org,+2348006025836,Ogun,2025-08-14,,m,Owerri Outlet,Platinum,2025-07-15,Card
+521,Obinna Yakubu,stacey37@haney.biz,+2347277232748,Cross River,2022-01-14,,F,Kaduna Main,Platinum,2025-04-21,Card
+522,Gbenga Adewale,gary57@garza.com,08453691510,Imo,2020-12-18,455605.0,F,Owerri Outlet,Platinum,2023-09-08,Card
+523,Ibrahim Oladipo,catherinethompson@hotmail.com,07762874182,Kano,2021-02-26,,Male,Abeokuta Branch,,2025-01-31,Cash
+524,Efe Okeke,olsondavid@ryan.biz,+2348678585735,Kaduna,2025-04-06,27004.0,Male,Lekki Branch,Silver,2024-08-12,Card
+525,Okon Okeke,wolferoy@yahoo.com,+2347331347555,Bauchi,2024-01-25,77232.0,Female,Benin Mall,Platinum,2024-04-25,Cash
+526,Seyi Ogunleye,eanderson@kent.com,07799800979,Taraba,2025-06-13,353649.0,Male,Abeokuta Branch,Platinum,2024-07-24,Card
+527,Fatima Osagie,adammanning@gmail.com,+2348108435047,Bauchi,2025-09-27,237038.0,M,Abeokuta Branch,Bronze,,Transfer
+528,Chinonso Olawale,brooksjamie@ortiz-rodriguez.biz,08981094165,Delta,2025-10-20,,m,Kaduna Main,,2023-11-27,Transfer
+529,Bamidele Okafor,ncunningham@yahoo.com,+2347315383338,Yobe,2024-03-15,,female,Kaduna Main,Silver,2023-09-10,Cash
+530,Emeka Oladipo,jwhite@hotmail.com,+2347270595062,Kogi,2024-12-08,153859.0,F,Abeokuta Branch,,2023-11-27,Transfer
+531,Tunde Okafor,KIM62@HOTMAIL.COM,+2347518273230,Ondo,2021-11-01,269909.0,M,Owerri Outlet,Gold,2023-10-20,Transfer
+532,Ibrahim Adewale,craigromero@yahoo.com,08229295397,Lagos,2025-07-04,128782.0,female,Kano Plaza,Gold,2025-06-08,Card
+533,Chinonso Ibrahim,paulfields@morrow.org,+2347413509275,Bauchi,2024-07-11,,m,Lekki Branch,Bronze,,Card
+534,Tope Yakubu,bakernathan@johnson.org,+2348263234614,Jigawa,2025-04-03,,f,Kaduna Main,Platinum,2024-01-17,POS
+535,Fatima Olawale,DANIELLEGONZALES@JEFFERSON.COM,+2347277852565,Zamfara,2022-06-25,66896.0,f,Benin Mall,Bronze,2022-12-20,Transfer
+536,Ibrahim Olayinka,emilyward@smith.biz,07621891026,Kano,2023-10-30,,male,Owerri Outlet,Gold,2025-09-03,Cash
+537,Funke Balogun,hwillis@gmail.com,+2347655334623,Kwara,2021-05-29,,M,Lekki Branch,,2023-03-18,Cash
+538,Fatima Ogunleye,michael43@hotmail.com,+2348677934953,Gombe,2022-06-24,382504.0,Male,Abeokuta Branch,Platinum,2024-10-04,POS
+539,Funke Nwosu,GREENRICHARD@GMAIL.COM,+2347831581097,Borno,2025-07-29,182732.0,f,Kano Plaza,Bronze,2023-02-18,Cash
+540,Zainab Ojo,stacey84@hotmail.com,+2347413233251,Kebbi,2025-09-18,32721.0,f,Abeokuta Branch,Bronze,2023-11-21,Card
+541,Chika Okon,xhart@gmail.com,+2348906226369,Anambra,2023-09-18,,m,Enugu Plaza,Bronze,2024-10-10,Cash
+542,Yusuf Osagie,,+2347820362337,Niger,2022-09-12,57079.0,male,Port Harcourt Center,Silver,2025-09-14,Cash
+543,Funke Ojo,robert58@smith.com,07698556462,Cross River,,,m,Lekki Branch,Gold,2024-07-09,Transfer
+544,Blessing Audu,spencergregory@yahoo.com,07514586387,Benue,2023-10-31,,F,Kano Plaza,Bronze,2023-10-03,POS
+545,Ngozi Ogunleye,STACEYVEGA@GMAIL.COM,+2347039992235,Plateau,2025-01-25,312323.0,Female,Abeokuta Branch,Silver,2023-09-04,POS
+546,Efe Mohammed,moniqueclark@conley.com,+2347305730875,Bauchi,2022-02-24,93179.0,,Kaduna Main,,2023-04-12,Cash
+547,Efe Olayinka,loweelizabeth@smith.info,08979573437,Ebonyi,2023-12-25,,female,Abuja Central,,2025-06-19,Transfer
+548,Emeka Olawale,kvillanueva@yahoo.com,07848910807,Edo,2024-12-30,,m,Abuja Central,,2023-08-09,Transfer
+549,Yusuf Okon,kwalker@gmail.com,08422229080,Osun,2021-04-14,,M,Port Harcourt Center,Bronze,2025-01-22,Cash
+550,Chika Olawale,cayers@hotmail.com,+2348637381642,Yobe,2023-10-11,417774.0,,Ikeja Mall,Platinum,2024-07-01,Transfer
+551,Chinonso Olayinka,sbray@stevens.com,+2348496860801,Lagos,2024-01-19,199238.0,f,Ikeja Mall,Silver,2025-04-18,Transfer
+552,Bamidele Yakubu,MICHAEL42@BAKER.COM,08541484234,Borno,2023-12-08,,M,Kano Plaza,Platinum,2023-08-10,Card
+553,Chika Yakubu,sclark@yahoo.com,07595599335,Zamfara,2023-12-06,294294.0,Male,Lekki Branch,,2024-07-12,Cash
+554,Funke Okon,iwhite@hotmail.com,+2348565298384,Plateau,2022-10-08,360456.0,,Enugu Plaza,Gold,2023-04-02,POS
+555,Chika Osagie,angelachase@gmail.com,07693635645,Adamawa,2022-01-24,,F,Abeokuta Branch,Platinum,2023-06-18,Cash
+556,Seyi Adewale,thompsonvictor@hotmail.com,07011079472,Yobe,2025-03-22,47891.0,Female,Kaduna Main,Bronze,2025-02-04,Card
+557,Tunde Nwosu,jevans@hotmail.com,08030720044,Adamawa,2021-03-25,,male,Abuja Central,Bronze,2024-07-08,Transfer
+558,Emeka Nwosu,briancervantes@combs-davis.com,08288414389,Anambra,2023-01-13,,F,Lekki Branch,Bronze,2024-05-11,POS
+559,Yusuf Mohammed,maurice61@yahoo.com,+2347117658123,Ondo,2022-07-08,231408.0,F,Ikeja Mall,,,POS
+560,Chinonso Eze,michael87@griffin.info,+2348691089277,Lagos,2022-01-21,,F,Owerri Outlet,Bronze,2023-07-16,Transfer
+561,Zainab Yakubu,,+2348273214059,Akwa Ibom,2021-06-06,,female,Kaduna Main,Platinum,2023-02-28,POS
+562,Tunde Abiola,,08255252076,Adamawa,2023-11-30,,male,Enugu Plaza,,2025-04-27,Card
+563,Tope Ojo,bjackson@gmail.com,+2348111710594,Delta,2022-10-26,270870.0,m,Owerri Outlet,Silver,2025-08-22,Card
+564,Ngozi Nwosu,CLARKRANDY@GMAIL.COM,+2348003738984,Ekiti,2021-05-14,,male,Kaduna Main,Gold,2024-11-02,POS
+565,Emeka Ogunleye,,07494509666,Bayelsa,2021-07-16,,female,Kaduna Main,Silver,2025-08-11,Cash
+566,Bamidele Okafor,,07624007665,Anambra,2021-11-24,,M,Ikeja Mall,Silver,2023-05-20,Card
+567,Seyi Okon,johnsonmichael@lin-mcdonald.net,+2347383414804,Akwa Ibom,,,F,Ikeja Mall,Silver,2023-12-26,Cash
+568,Yusuf Yakubu,tarawolfe@gmail.com,+2348419290658,Imo,2024-09-15,,F,Lekki Branch,Silver,2025-07-05,Card
+569,Aisha Yakubu,regina78@gmail.com,07922430464,Benue,2021-08-02,405074.0,,Kano Plaza,Silver,2024-09-14,Cash
+570,Blessing Balogun,robert24@gmail.com,+2347449334256,Oyo,2020-10-28,419710.0,Male,Abeokuta Branch,Platinum,2025-01-18,Transfer
+571,Tope Ibrahim,justin80@weeks.com,08491448168,Ebonyi,2024-06-26,,male,Enugu Plaza,Platinum,2024-01-27,Cash
+572,Aisha Abiola,kelleyjacob@kim.biz,07469426460,Ondo,2024-01-16,202700.0,female,Kano Plaza,,,Cash
+573,Okon Okeke,christian38@aguirre.net,08100074452,Ekiti,2023-02-10,,m,Owerri Outlet,Platinum,2024-07-31,POS
+574,Chika Olawale,whitekeith@gibson.info,08935904650,Oyo,2022-06-03,268069.0,male,Abuja Central,Bronze,2024-03-10,Transfer
+575,Emeka Oladipo,brandonnichols@compton.com,07650076760,Plateau,2021-11-20,321687.0,,Kano Plaza,Bronze,2024-09-09,Transfer
+576,Bamidele Audu,christophersmith@peterson.info,+2347025535129,Ebonyi,2023-12-25,404067.0,m,Abuja Central,Silver,2024-10-18,Card
+577,Tope Abiola,christopher20@rowe-jones.info,+2348551579165,Bayelsa,2022-05-15,,Female,Kaduna Main,Platinum,2023-08-23,POS
+578,Gbenga Okafor,hclayton@hotmail.com,08584424311,Lagos,2022-12-10,,female,Abuja Central,Platinum,2024-06-17,POS
+579,Gbenga Ojo,,+2348980289574,Ogun,2021-08-15,,m,Abuja Central,Platinum,,POS
+580,Aisha Ogunleye,TPRICE@MOORE-CHANDLER.NET,08921447666,Ondo,2025-04-03,59690.0,M,Enugu Plaza,Platinum,,Card
+581,Ngozi Audu,timothy43@clay-boyer.com,+2347150279680,Bayelsa,2021-10-13,276859.0,Male,Owerri Outlet,Platinum,2023-10-30,Cash
+582,Funke Oladipo,alexis49@gmail.com,08940439378,Katsina,2024-03-10,,m,Benin Mall,Silver,2023-11-10,Transfer
+583,Zainab Yakubu,perkinshannah@carlson.com,07015984371,Delta,2025-01-28,,Female,Abeokuta Branch,Gold,2023-03-19,POS
+584,Efe Okeke,browndeanna@hotmail.com,08891920363,Bayelsa,2025-05-21,,m,Enugu Plaza,Silver,2023-04-13,Card
+585,Obinna Osagie,jhall@sherman.com,08221091999,Kaduna,2021-01-02,27892.0,Male,Kano Plaza,,2025-10-03,Cash
+586,Aisha Ogunleye,jennifer40@yahoo.com,07791846088,Enugu,2024-07-18,,m,Benin Mall,Silver,2025-03-15,Cash
+587,Efe Okafor,LLOPEZ@HOTMAIL.COM,+2347818525347,Ekiti,2023-10-13,453671.0,m,Ikeja Mall,Bronze,2024-03-14,Card
+588,Yusuf Okeke,mikayla98@gmail.com,+2347520321555,Anambra,2021-05-29,,Male,Port Harcourt Center,Bronze,2025-01-31,Card
+589,Okon Eze,qphillips@richardson.biz,08639795005,Lagos,2022-05-27,,female,Port Harcourt Center,Silver,2022-11-27,Card
+590,Efe Adewale,malikbrown@hotmail.com,+2348538479682,Kaduna,2024-02-13,,M,Enugu Plaza,Bronze,,POS
+591,Aisha Abiola,jcannon@campbell.com,07905556779,Abuja,2025-04-10,181746.0,F,Abuja Central,Bronze,2025-08-17,Card
+592,Tunde Adewale,conleydavid@harris.com,08207002023,Akwa Ibom,2021-08-30,,m,Lekki Branch,Silver,2022-12-17,Transfer
+593,Yusuf Olawale,SFOX@HOTMAIL.COM,07456915674,Bayelsa,2023-01-01,,female,Ikeja Mall,Bronze,2023-01-13,POS
+594,Okon Olayinka,catherinejones@gmail.com,+2348699217422,Imo,2025-01-01,,m,Port Harcourt Center,Gold,2023-03-02,Transfer
+595,Tope Mohammed,wardjulia@yahoo.com,+2347821136325,Zamfara,2023-12-18,126857.0,Female,Ikeja Mall,,2023-01-27,Cash
+596,Okon Abiola,navarromary@gmail.com,+2347128683701,Ogun,2022-08-29,160511.0,Male,Kaduna Main,Silver,2025-01-12,Card
+597,Obinna Okeke,hardyamanda@lee.com,08382124923,Kano,2025-09-03,,M,Abuja Central,Gold,2025-06-26,Card
+598,Gbenga Adewale,xreese@ray.biz,08476072542,Borno,2021-09-16,,Male,Benin Mall,Bronze,,POS
+599,Ngozi Yakubu,ANDREAWAGNER@MOORE.COM,+2347269640195,Oyo,2023-07-04,292753.0,Female,Abeokuta Branch,Bronze,2025-03-01,POS
+600,Okon Olawale,robert65@hotmail.com,07534657776,Ondo,2022-11-14,240023.0,male,Benin Mall,Bronze,2025-03-21,Transfer
+601,Chinonso Audu,VCANNON@WARD-CHAVEZ.BIZ,+2348578246095,Adamawa,2020-10-28,,M,Kaduna Main,Platinum,2022-12-21,Transfer
+602,Obinna Oladipo,HOLMESVICTORIA@YAHOO.COM,07995683453,Ondo,2020-11-17,,F,Owerri Outlet,Silver,2024-02-07,Card
+603,Funke Yakubu,MELISSASMITH@SHORT.ORG,+2347803712529,Abia,2025-09-07,,female,Kaduna Main,Platinum,2023-06-26,Cash
+604,Fatima Adewale,stevenseric@richardson-perkins.com,+2347348670560,Akwa Ibom,2023-01-02,,,Benin Mall,Gold,2024-02-07,POS
+605,Fatima Abiola,,+2348354960624,Abuja,2025-09-22,343340.0,male,Enugu Plaza,Platinum,2023-03-26,Card
+606,Blessing Abiola,crossbarbara@gmail.com,+2347026494336,Edo,2021-04-19,,m,Enugu Plaza,Bronze,2024-03-31,Card
+607,Fatima Olawale,hbutler@gmail.com,08145041102,Gombe,2020-12-02,,F,Lekki Branch,,2025-07-09,Transfer
+608,Funke Okon,torresblake@hotmail.com,07661640457,Lagos,2025-08-18,,M,Lekki Branch,Bronze,2023-06-18,POS
+609,Chidinma Osagie,ericnunez@yahoo.com,07804557736,Cross River,2024-08-12,,Male,Abeokuta Branch,Bronze,2025-05-10,Card
+610,Tunde Yakubu,RYANHARTMAN@ANDERSON.INFO,+2347556953996,Taraba,2025-09-07,483659.0,Male,Lekki Branch,Gold,,Cash
+611,Blessing Mohammed,zbaker@hamilton.info,08444836849,Kaduna,,144502.0,M,Lekki Branch,Silver,2025-03-15,Cash
+612,Chinonso Olayinka,kfoster@hoffman.net,08043518466,Ebonyi,2022-12-02,,female,Owerri Outlet,Gold,2023-11-09,Card
+613,Bamidele Audu,kimberly59@rodriguez.biz,07709217755,Kaduna,,,Male,Ikeja Mall,,2024-05-18,Transfer
+614,Seyi Bello,malikwheeler@gmail.com,+2348105769405,Taraba,2023-06-02,,M,Owerri Outlet,Bronze,2023-07-18,Transfer
+615,Efe Abiola,chanson@gmail.com,+2347174739101,Sokoto,2022-10-23,,F,Kaduna Main,Gold,2023-09-04,Card
+616,Chidinma Nnamdi,katherinefarrell@gmail.com,08069285908,Oyo,2021-04-15,,Male,Benin Mall,Bronze,2023-11-10,Card
+617,Seyi Yakubu,ALEXANDER14@RUIZ-RIVERA.NET,+2347226494415,Adamawa,2022-08-17,20320.0,female,Kaduna Main,Gold,2023-09-10,Transfer
+618,Tope Eze,jdean@hotmail.com,+2348056473441,Oyo,2020-12-24,179483.0,F,Owerri Outlet,Platinum,2024-06-05,POS
+619,Gbenga Osagie,george43@williamson.com,07188292103,Edo,2021-05-22,393277.0,F,Enugu Plaza,Gold,2024-06-23,Transfer
+620,Chinonso Nnamdi,michelle04@hotmail.com,+2347407716243,Gombe,2024-02-10,,Male,Abeokuta Branch,,2023-10-23,Cash
+621,Chinonso Okafor,mckeetodd@hotmail.com,07637423717,Borno,2025-05-06,243962.0,male,Port Harcourt Center,Bronze,2023-03-14,Transfer
+622,Chidinma Eze,vincentellis@smith.com,+2348355227680,Katsina,2024-12-28,,M,Owerri Outlet,Silver,2024-07-01,Card
+623,Seyi Adewale,reedmichael@turner.com,+2348562069862,Yobe,2021-05-08,432301.0,M,Abeokuta Branch,Platinum,2025-06-27,POS
+624,Bamidele Audu,bzamora@hotmail.com,08495456748,Akwa Ibom,2023-03-17,,F,Port Harcourt Center,Gold,2023-10-14,Cash
+625,Okon Okeke,penny21@reyes.com,08036035696,Kwara,2024-05-16,114977.0,Female,Ikeja Mall,Gold,2023-11-06,Cash
+626,Funke Audu,mwaller@cole-anderson.com,+2348988538379,Rivers,2025-10-07,253447.0,M,Lekki Branch,,2025-02-15,POS
+627,Funke Audu,kylethornton@browning.com,07650020985,Cross River,2025-08-17,201802.0,f,Kaduna Main,Gold,2023-07-01,POS
+628,Bamidele Okafor,GRANTSTACY@GMAIL.COM,08436220333,Zamfara,2022-05-23,,male,Lekki Branch,,2024-03-05,POS
+629,Fatima Ojo,cannonnicole@ali-turner.com,08951806050,Kebbi,2022-02-12,431176.0,m,Abeokuta Branch,,2023-08-16,POS
+630,Ngozi Ibrahim,jackfarmer@jensen.org,+2348399516515,Edo,2022-10-19,113770.0,Male,Enugu Plaza,Silver,,POS
+631,Yusuf Eze,HOWARDHAILEY@ANDERSON-MATHIS.INFO,+2347188594000,Jigawa,2024-01-02,399824.0,F,Lekki Branch,,2023-08-10,Card
+632,Fatima Okafor,,+2348942655605,Kwara,2022-10-01,238266.0,f,Owerri Outlet,,2022-12-18,Transfer
+633,Obinna Oladipo,schaeferstephanie@gmail.com,+2347096068878,Benue,,,Female,Port Harcourt Center,,2025-09-05,Transfer
+634,Blessing Balogun,carlho@camacho-burns.com,+2347559794097,Gombe,2024-09-18,,f,Lekki Branch,Gold,2023-11-16,Card
+635,Gbenga Yakubu,MPARSONS@HOTMAIL.COM,+2348496372910,Akwa Ibom,2024-01-22,300510.0,m,Port Harcourt Center,Gold,2024-02-27,POS
+636,Chinonso Okafor,meyershannon@gmail.com,08141323502,Edo,2022-11-30,218270.0,female,Lekki Branch,Gold,2025-01-11,Transfer
+637,Funke Abiola,grantzachary@hotmail.com,+2347477225790,Gombe,2021-03-30,415377.0,Male,Abeokuta Branch,Gold,2023-08-19,POS
+638,Ibrahim Ibrahim,tsanders@yahoo.com,07582083967,Kaduna,2024-09-30,,m,Port Harcourt Center,Gold,2023-07-14,POS
+639,Tope Nnamdi,,+2347333914983,Ogun,2024-10-07,,M,Owerri Outlet,Silver,2025-07-28,POS
+640,Efe Olawale,sharpdaniel@hotmail.com,07615940533,Plateau,2025-06-21,277941.0,male,Lekki Branch,Gold,2023-05-27,Transfer
+641,Ngozi Mohammed,BMORRIS@GMAIL.COM,08235483203,Rivers,2024-09-06,,M,Kaduna Main,,2025-05-03,Card
+642,Tope Ogunleye,udavis@wong.com,+2348498690091,Edo,2021-08-07,328111.0,M,Kaduna Main,,2023-04-24,Card
+643,Chidinma Olayinka,CHRISTOPHER68@HOTMAIL.COM,08997557850,Kogi,2022-03-08,96652.0,female,Port Harcourt Center,,2024-06-08,Cash
+644,Fatima Ogunleye,taterhonda@hotmail.com,08962897060,Benue,2022-02-06,451052.0,male,Kano Plaza,Platinum,2023-07-07,Card
+645,Chika Nnamdi,kaylawilliams@collins-mack.info,+2348380775369,Zamfara,2023-04-13,,f,Ikeja Mall,Gold,,POS
+646,Yusuf Ojo,,+2347399770628,Yobe,2024-09-21,,f,Abuja Central,Bronze,2024-12-10,Card
+647,Fatima Eze,,+2347537160301,Borno,2024-11-13,,female,Kaduna Main,Silver,2024-10-02,Transfer
+648,Ibrahim Okeke,mmiller@gmail.com,08604365900,Adamawa,,468248.0,F,Abuja Central,Gold,,POS
+649,Fatima Nwosu,christine83@lopez.com,08029278142,Plateau,2021-02-19,,Male,Owerri Outlet,Platinum,2023-06-11,POS
+650,Funke Eze,mark10@butler.com,07738993250,Zamfara,,363842.0,M,Owerri Outlet,Platinum,2025-09-07,Cash
+651,Fatima Ogunleye,tammycurry@yahoo.com,+2347532033266,Delta,2021-02-16,102968.0,male,Lekki Branch,Gold,2023-03-22,Card
+652,Fatima Yakubu,miguel61@yahoo.com,08568643853,Zamfara,2025-07-04,103916.0,Female,Lekki Branch,Silver,2023-02-06,Transfer
+653,Aisha Balogun,staylor@yahoo.com,07109425808,Gombe,2023-08-16,165665.0,Female,Owerri Outlet,Platinum,2025-01-24,POS
+654,Emeka Ojo,HEATHERSALAZAR@GMAIL.COM,+2348528118432,Taraba,2025-09-07,474293.0,Male,Ikeja Mall,Bronze,,Transfer
+655,Aisha Ojo,mramsey@mitchell.net,07396940883,Niger,2025-09-18,,male,Lekki Branch,Bronze,2025-06-23,Card
+656,Yusuf Bello,christinacrawford@hotmail.com,+2348135722626,Bauchi,2025-01-21,149675.0,m,Lekki Branch,Bronze,2024-12-02,Cash
+657,Emeka Nnamdi,jeanettekrause@wilson.com,+2347414308666,Anambra,2022-08-03,,male,Benin Mall,Silver,2025-06-10,Card
+658,Emeka Balogun,WWILLIAMS@HOTMAIL.COM,08883504947,Jigawa,2022-08-18,,f,Lekki Branch,Platinum,,POS
+659,Chidinma Ibrahim,hannahking@parker.net,07276884172,Kwara,,301838.0,Female,Kaduna Main,Platinum,2024-03-15,Cash
+660,Tunde Okeke,jenningsmatthew@carroll.com,+2347860816582,Plateau,2023-08-20,6887.0,Female,Enugu Plaza,Bronze,2024-04-05,POS
+661,Chidinma Ibrahim,probles@gmail.com,07576630823,Jigawa,2024-12-01,122403.0,,Abuja Central,Gold,,Card
+662,Blessing Balogun,imcclain@ford-olsen.com,+2347534740761,Katsina,2025-04-03,,female,Owerri Outlet,Bronze,2024-02-06,Transfer
+663,Funke Osagie,clarkgina@yahoo.com,+2348344228782,Lagos,2021-05-21,,Male,Kano Plaza,Bronze,2023-06-17,Cash
+664,Chinonso Okon,morgannicholas@hotmail.com,+2348754165641,Anambra,2022-03-27,145925.0,m,Port Harcourt Center,Platinum,2025-04-02,POS
+665,Bamidele Balogun,brookehancock@yahoo.com,07397344649,Cross River,2023-07-02,262172.0,male,Ikeja Mall,Gold,2022-12-17,Card
+666,Chinonso Olayinka,PMILLER@YAHOO.COM,07977156936,Yobe,2024-09-01,281183.0,M,Enugu Plaza,Bronze,2024-02-11,Cash
+667,Ibrahim Okafor,gregory50@gentry.net,07533312402,Oyo,2021-01-13,497095.0,M,Lekki Branch,,2024-11-16,Transfer
+668,Ngozi Yakubu,MATTHEWWEBB@COLLINS.COM,+2348751197584,Imo,2025-03-19,256085.0,Female,Ikeja Mall,,2025-09-14,Cash
+669,Chika Adewale,JENNYSTEVENS@HANCOCK.COM,+2348796334392,Taraba,2021-07-25,483238.0,M,Abuja Central,Platinum,2024-03-29,Transfer
+670,Okon Abiola,garciakatie@hotmail.com,+2348535131249,Edo,2023-06-25,62742.0,F,Kano Plaza,Gold,,Transfer
+671,Ibrahim Bello,danielle35@lee.net,+2348298167571,Delta,2023-07-16,,Male,Kaduna Main,Silver,2024-09-13,Transfer
+672,Obinna Ojo,edward41@mullen.net,+2348421058032,Bauchi,2021-09-11,430050.0,M,Port Harcourt Center,Silver,2023-09-14,POS
+673,Efe Ogunleye,joseph49@gmail.com,08560592962,Plateau,2022-04-13,174373.0,Male,Kaduna Main,Gold,2023-02-16,POS
+674,Tope Osagie,amber02@gmail.com,08404355990,Benue,2024-10-29,,,Abeokuta Branch,Platinum,2025-09-12,Card
+675,Chinonso Mohammed,reyeschristopher@white-carlson.org,+2348489277651,Borno,2024-08-13,,M,Abuja Central,Bronze,2025-06-12,POS
+676,Funke Eze,MARTIN38@GMAIL.COM,+2348861379779,Ogun,2024-10-13,,Female,Abuja Central,Silver,,Card
+677,Ibrahim Balogun,,+2347798185811,Rivers,2024-10-28,352470.0,f,Enugu Plaza,Silver,,Transfer
+678,Funke Mohammed,,+2347894415933,Delta,2023-08-02,251292.0,,Kano Plaza,Platinum,2024-10-02,Transfer
+679,Efe Okafor,jonesdaniel@yahoo.com,+2347068975252,Cross River,2024-09-30,,m,Benin Mall,,2023-07-21,Transfer
+680,Zainab Ibrahim,cassandra28@gmail.com,+2347583745339,Oyo,2024-04-10,70605.0,m,Enugu Plaza,Bronze,2023-04-13,Card
+681,Gbenga Olayinka,sparksamanda@yahoo.com,07672569664,Yobe,2024-05-04,91415.0,female,Kaduna Main,Silver,2023-11-03,Cash
+682,Ngozi Bello,terrireyes@clark-benson.biz,07606034768,Imo,2024-07-11,39246.0,M,Kano Plaza,Silver,2025-03-28,Cash
+683,Seyi Okon,GILBERTCALDWELL@HOTMAIL.COM,08696996774,Ebonyi,,169930.0,male,Ikeja Mall,Gold,2025-04-07,POS
+684,Chidinma Yakubu,vargassteven@hotmail.com,07278135394,Kaduna,2021-08-27,475030.0,,Port Harcourt Center,Bronze,2024-09-19,POS
+685,Tope Nnamdi,,08465386972,Bayelsa,2023-08-11,333179.0,Female,Abuja Central,Silver,2024-12-04,Card
+686,Chidinma Ibrahim,robinsondominic@berger.com,+2348650633708,Ekiti,2022-02-03,,male,Owerri Outlet,,2024-10-01,POS
+687,Emeka Audu,cgilbert@gmail.com,+2347327279534,Abia,2022-07-28,12833.0,male,Abeokuta Branch,Bronze,2025-09-21,POS
+688,Yusuf Olawale,ashley46@hotmail.com,07780241516,Sokoto,2023-10-02,,male,Benin Mall,Gold,2023-03-16,POS
+689,Funke Eze,sabbott@wood.com,07615522648,Yobe,2020-10-30,329892.0,f,Owerri Outlet,,2025-10-25,Transfer
+690,Bamidele Mohammed,callahanmichelle@gmail.com,08880200213,Kano,2024-06-30,342571.0,Female,Abeokuta Branch,Bronze,2025-10-23,Cash
+691,Okon Audu,JENNIFER66@YAHOO.COM,07833702532,Bayelsa,2025-06-17,,f,Abeokuta Branch,Platinum,2023-09-22,Card
+692,Ibrahim Audu,jtaylor@bridges-ward.biz,07681364048,Ekiti,2022-02-19,259958.0,f,Lekki Branch,Gold,2024-01-20,Card
+693,Tope Balogun,alexanderwong@griffith.biz,08290803916,Gombe,2021-12-23,,m,Benin Mall,Silver,,Cash
+694,Fatima Okon,dawnperry@english-dominguez.biz,07588207189,Yobe,2022-05-09,,m,Abeokuta Branch,Silver,2024-10-03,Transfer
+695,Tunde Adewale,OCRUZ@GMAIL.COM,08617433257,Ondo,2024-06-08,,f,Benin Mall,,2025-05-25,Card
+696,Fatima Bello,pbradford@shaw.com,+2348204541710,Akwa Ibom,2021-02-08,355204.0,female,Owerri Outlet,Bronze,2022-12-26,POS
+697,Funke Ogunleye,daniel71@gmail.com,+2347872708664,Niger,2025-04-20,,Male,Benin Mall,,,Card
+698,Aisha Osagie,hblack@hotmail.com,+2347464151286,Sokoto,2021-07-29,105222.0,female,Owerri Outlet,Bronze,2023-11-13,Transfer
+699,Chidinma Eze,suttonamber@hotmail.com,07881298974,Sokoto,2023-06-25,,,Owerri Outlet,Bronze,2025-06-07,POS
+700,Fatima Bello,AMANDA07@HUNT-HARRISON.COM,+2347819401002,Kwara,2024-05-28,,male,Enugu Plaza,Bronze,2024-04-29,Cash
+701,Ngozi Okafor,gary94@hotmail.com,08614320924,Kebbi,2025-08-14,237838.0,male,Kaduna Main,Silver,2023-12-07,POS
+702,Gbenga Audu,KLANE@DOUGLAS.ORG,+2347752937142,Bayelsa,2021-01-20,,M,Owerri Outlet,Silver,2024-01-17,Transfer
+703,Blessing Ojo,martinezchase@yahoo.com,07518734221,Lagos,2022-12-20,222347.0,M,Ikeja Mall,Silver,2023-05-22,Transfer
+704,Yusuf Olawale,michaela01@hotmail.com,07840444345,Akwa Ibom,2022-04-23,211211.0,m,Port Harcourt Center,Platinum,2025-05-05,Card
+705,Chinonso Nwosu,lwood@patton-young.com,08720503727,Ogun,2025-04-23,,male,Abeokuta Branch,Silver,2022-12-19,Card
+706,Ngozi Mohammed,,+2347328669400,Abuja,2025-01-15,290040.0,m,Ikeja Mall,Silver,2024-07-31,Transfer
+707,Tunde Abiola,donnabarber@gmail.com,08804867224,Benue,2022-08-14,,male,Ikeja Mall,Gold,,Card
+708,Chika Nnamdi,maykarla@gmail.com,+2347263462583,Kaduna,2021-04-09,142360.0,F,Lekki Branch,Platinum,2023-07-16,Card
+709,Chinonso Eze,,08343643497,Enugu,2025-05-09,,female,Benin Mall,Silver,2023-10-26,Cash
+710,Tunde Nnamdi,jwells@hotmail.com,07736179838,Sokoto,2024-07-09,326915.0,Male,Abeokuta Branch,Gold,2022-11-16,Card
+711,Obinna Okafor,ureyes@hotmail.com,+2347464514731,Bauchi,2021-03-04,118748.0,female,Port Harcourt Center,Silver,,Card
+712,Blessing Okon,stephanie69@garrison.com,08184331025,Kwara,2022-12-30,,m,Abeokuta Branch,Platinum,2025-08-10,Transfer
+713,Tunde Yakubu,vmejia@gmail.com,07843587250,Kaduna,2022-06-25,,Male,Abuja Central,Platinum,2025-01-13,POS
+714,Fatima Olayinka,lawrencesmith@gmail.com,+2348304157475,Gombe,2021-05-27,,female,Lekki Branch,Platinum,2022-11-16,Cash
+715,Chidinma Okon,foxgina@yahoo.com,+2348385337329,Kogi,2022-09-09,20697.0,Male,Owerri Outlet,Platinum,2024-01-12,Transfer
+716,Seyi Mohammed,austinharvey@gmail.com,07675282457,Edo,,365863.0,female,Abuja Central,Platinum,2025-05-08,Transfer
+717,Seyi Oladipo,ERICKSONDAVID@ANDERSON.ORG,07466999147,Kaduna,2022-05-25,380529.0,m,Kaduna Main,Gold,2023-04-19,Card
+718,Aisha Adewale,kenneth17@hammond-schwartz.com,+2347904600097,Edo,2023-01-05,,m,Abuja Central,,,Cash
+719,Zainab Okafor,ramirezbryan@cook-brown.com,+2347865029596,Kano,2022-05-03,486314.0,female,Ikeja Mall,Bronze,2024-09-12,POS
+720,Okon Okon,mkrause@long.net,08663469681,Osun,2024-06-28,,male,Benin Mall,Platinum,2023-10-03,Cash
+721,Bamidele Olayinka,GBALDWIN@JONES.COM,+2347297929915,Kaduna,2024-08-13,,Female,Port Harcourt Center,Bronze,2022-11-27,Transfer
+722,Gbenga Okafor,denisesmith@gmail.com,08685654481,Kano,2024-02-23,164535.0,male,Owerri Outlet,,2023-12-16,POS
+723,Blessing Olawale,rebecca90@zimmerman.biz,07685761699,Delta,2021-06-02,,f,Lekki Branch,,2025-02-14,POS
+724,Tope Okon,cruzhannah@martinez-nichols.com,07566532019,Kwara,2023-08-29,190078.0,Female,Lekki Branch,Bronze,2025-09-22,Cash
+725,Aisha Okafor,pbrown@gmail.com,08047210903,Kaduna,2023-12-07,,male,Benin Mall,Silver,2025-02-05,Cash
+726,Funke Abiola,randallkathleen@yahoo.com,08332466473,Zamfara,2022-07-21,214822.0,F,Kano Plaza,Platinum,2023-07-30,Transfer
+727,Zainab Eze,TGUERRERO@PRICE.INFO,+2347516603952,Abuja,2021-07-18,,M,Benin Mall,,2025-07-08,Transfer
+728,Ibrahim Oladipo,DONALDLEE@HOTMAIL.COM,08078445660,Adamawa,2022-11-07,,male,Owerri Outlet,Bronze,,POS
+729,Fatima Yakubu,ibrown@hotmail.com,+2348137227359,Abia,2023-06-11,62244.0,Female,Lekki Branch,Silver,2024-12-13,Cash
+730,Zainab Okon,johnsonbrian@hotmail.com,08895369695,Yobe,2021-03-10,58112.0,male,Benin Mall,Silver,2024-07-19,Card
+731,Bamidele Ojo,lindsaycontreras@bentley-berg.net,07397453744,Zamfara,2022-02-02,,male,Abuja Central,Silver,2025-04-15,Cash
+732,Tunde Olawale,johnsondonald@smith.com,+2348430291496,Ebonyi,2021-12-07,15919.0,male,Lekki Branch,Silver,2022-11-20,Cash
+733,Obinna Bello,conwaylori@bryant.org,07531524598,Ebonyi,2021-05-14,434353.0,male,Abuja Central,,2023-04-12,Card
+734,Ibrahim Eze,nlarson@brown.biz,08578003206,Sokoto,2023-09-11,,male,Owerri Outlet,Platinum,,Transfer
+735,Okon Nwosu,david98@gmail.com,+2348937388508,Ebonyi,2023-07-24,364548.0,Male,Kaduna Main,Silver,2023-09-25,Card
+736,Bamidele Ogunleye,MATTHEWMARTINEZ@TODD.COM,+2347924965260,Bauchi,2025-07-13,51805.0,m,Lekki Branch,Gold,2023-07-12,POS
+737,Chidinma Olawale,sarawilliams@gmail.com,+2347839722426,Taraba,2024-01-09,,Female,Ikeja Mall,,2023-07-01,Transfer
+738,Obinna Eze,amiller@howe.org,+2348701538295,Sokoto,2023-03-28,,Male,Benin Mall,Silver,2024-08-05,Transfer
+739,Obinna Oladipo,jamiebowman@hotmail.com,08717525357,Kwara,,26471.0,male,Enugu Plaza,Bronze,,Transfer
+740,Chika Osagie,lallen@hotmail.com,07295748834,Sokoto,2021-02-21,416704.0,F,Kano Plaza,Silver,2025-05-12,Card
+741,Fatima Nnamdi,fsalazar@serrano.net,07761566937,Benue,2022-10-30,,m,Kaduna Main,Bronze,2023-08-23,Transfer
+742,Obinna Ojo,MONTGOMERYMICHELLE@ROMERO.COM,+2348727393438,Ogun,2023-03-05,,Male,Kaduna Main,,2023-01-19,Transfer
+743,Ngozi Ojo,hogangina@jimenez-moore.com,+2347807380718,Adamawa,2021-04-13,,female,Abeokuta Branch,Gold,2025-07-26,POS
+744,Efe Osagie,jason45@hotmail.com,+2347056741063,Taraba,2024-09-04,,Female,Enugu Plaza,,2023-01-04,Transfer
+745,Emeka Audu,BUCKLEYGREGORY@WASHINGTON.COM,08638520387,Kogi,2022-10-29,33493.0,M,Kano Plaza,Bronze,2024-09-19,Cash
+746,Okon Nnamdi,rgonzalez@yahoo.com,08590153527,Zamfara,2022-10-12,32797.0,,Port Harcourt Center,,2023-04-18,POS
+747,Funke Abiola,coreyrojas@gmail.com,08349133970,Ondo,2024-01-07,496012.0,f,Enugu Plaza,Silver,2023-10-06,Cash
+748,Funke Olayinka,drichards@thomas-reilly.info,07222494388,Ebonyi,,,m,Ikeja Mall,Bronze,2023-08-01,POS
+749,Tunde Abiola,derek35@yahoo.com,+2348463124522,Anambra,2022-07-18,328568.0,m,Port Harcourt Center,Bronze,2024-04-02,Card
+750,Tunde Ibrahim,schwartzbrian@rodriguez.info,07622847981,Kwara,2024-05-19,,female,Kano Plaza,Platinum,2023-07-21,Cash
+751,Efe Osagie,oliviamunoz@hotmail.com,07257969690,Gombe,,163734.0,f,Ikeja Mall,Gold,2025-06-04,POS
+752,Efe Okon,CHRISTOPHERVINCENT@ATKINS-ROBINSON.INFO,+2348849031012,Zamfara,2024-10-04,,,Lekki Branch,Silver,2024-01-05,Transfer
+753,Zainab Nwosu,pfitzgerald@murphy.com,08685690773,Ondo,2022-02-02,,m,Benin Mall,,2025-04-07,Transfer
+754,Funke Nwosu,cbaird@quinn-gordon.biz,+2348782167195,Yobe,2025-05-05,20477.0,Female,Lekki Branch,Bronze,2024-07-02,POS
+755,Yusuf Abiola,chavezjohn@hotmail.com,+2347508131541,Kaduna,2020-12-05,,m,Lekki Branch,Bronze,2025-10-09,Cash
+756,Emeka Mohammed,davidphillips@hotmail.com,+2347063263695,Cross River,2021-08-05,,m,Port Harcourt Center,,2022-11-22,Card
+757,Blessing Ogunleye,evan79@hotmail.com,07348084730,Adamawa,2025-10-15,428977.0,F,Enugu Plaza,Bronze,2022-12-05,Cash
+758,Aisha Adewale,tingram@yahoo.com,07876232098,Kebbi,2022-05-25,183630.0,,Benin Mall,Silver,2024-05-26,POS
+759,Chidinma Bello,daltonchad@hotmail.com,+2348721414078,Enugu,2023-08-28,,F,Enugu Plaza,Bronze,2025-01-30,Transfer
+760,Ibrahim Eze,ronald49@johnston.org,+2347048409608,Borno,2023-09-05,,m,Owerri Outlet,Bronze,2023-01-22,Card
+761,Okon Mohammed,rodriguezmichael@hotmail.com,+2348312643697,Zamfara,2021-03-03,329348.0,,Lekki Branch,,2024-05-18,Transfer
+762,Chika Adewale,deborahbush@hotmail.com,08642257882,Rivers,2022-07-26,,M,Abuja Central,Platinum,,Cash
+763,Bamidele Mohammed,john17@crosby.com,+2347173073189,Jigawa,2022-09-28,,M,Lekki Branch,Bronze,2024-03-09,Card
+764,Bamidele Osagie,wesley64@gmail.com,+2347489100432,Abuja,2021-05-12,18816.0,,Enugu Plaza,Platinum,2024-05-30,Cash
+765,Gbenga Ogunleye,HTUCKER@GMAIL.COM,+2347922813764,Adamawa,2024-10-27,,F,Enugu Plaza,Gold,2025-02-01,Transfer
+766,Fatima Adewale,zoliver@hotmail.com,07887051364,Kebbi,2021-05-19,425356.0,Female,Ikeja Mall,Bronze,,POS
+767,Tunde Ojo,ZMILLER@ROBERTS.COM,+2347524510730,Kwara,2022-03-23,,F,Lekki Branch,Bronze,2023-12-31,Card
+768,Tope Bello,tylergolden@crane.net,07650083911,Bauchi,2021-12-12,158450.0,,Kano Plaza,Gold,2024-11-03,Cash
+769,Emeka Bello,pwallace@gmail.com,+2347600831242,Oyo,2023-04-21,76896.0,male,Abeokuta Branch,Silver,2023-08-18,Card
+770,Emeka Abiola,wigginsjesse@newman.com,07245325613,Abuja,2024-12-16,,male,Enugu Plaza,Platinum,2025-05-07,Cash
+771,Emeka Okon,itorres@yahoo.com,07821601868,Gombe,2022-04-14,122675.0,m,Port Harcourt Center,Platinum,2023-12-06,Transfer
+772,Emeka Oladipo,swatson@hernandez.info,+2348620229319,Ekiti,2022-03-28,,Female,Ikeja Mall,Gold,2025-06-16,POS
+773,Fatima Adewale,ian22@young.com,+2348455928473,Kwara,2025-09-16,,m,Enugu Plaza,,2023-05-13,Transfer
+774,Tunde Audu,mike38@hotmail.com,08949297962,Lagos,2021-02-12,,F,Abuja Central,,2025-08-27,POS
+775,Emeka Olayinka,earl78@gmail.com,08402373626,Lagos,2025-05-12,,male,Port Harcourt Center,Platinum,2024-02-09,POS
+776,Chika Okeke,SULLIVANVICTOR@GOULD.COM,+2348195307464,Katsina,2020-11-10,308861.0,male,Enugu Plaza,,2025-02-23,Cash
+777,Efe Olawale,thomas49@hotmail.com,08062851783,Ogun,2022-01-27,96485.0,M,Abuja Central,Bronze,2025-03-25,Card
+778,Chidinma Okeke,,+2347130594635,Niger,2025-07-05,,,Ikeja Mall,,2023-04-28,Cash
+779,Ngozi Ibrahim,moralesmary@yahoo.com,07699626652,Bauchi,2023-11-12,,F,Kaduna Main,Gold,2023-03-21,Transfer
+780,Obinna Bello,franklinjames@hotmail.com,+2348010788405,Kwara,2022-09-18,,M,Kano Plaza,Silver,2024-01-03,Cash
+781,Ibrahim Olayinka,millermelissa@powers.com,+2348593526104,Zamfara,2024-12-29,,Female,Kaduna Main,,,Card
+782,Chinonso Mohammed,kerrmichael@gmail.com,+2348214192375,Zamfara,2024-06-17,,,Lekki Branch,,2024-05-25,POS
+783,Chidinma Ibrahim,alexander55@yahoo.com,+2347629352945,Benue,2024-08-12,,Female,Benin Mall,Gold,2025-03-18,Cash
+784,Seyi Okeke,jessicawallace@lara-roberts.biz,07755881197,Jigawa,2024-05-06,,f,Enugu Plaza,Silver,2023-06-02,POS
+785,Seyi Nnamdi,jaredwells@hatfield.biz,+2347526013075,Taraba,2021-07-29,354124.0,male,Kano Plaza,Gold,2022-11-08,Cash
+786,Fatima Osagie,robert87@hotmail.com,08892880644,Akwa Ibom,2025-08-27,,M,Port Harcourt Center,Bronze,2023-05-29,POS
+787,Ibrahim Balogun,marisaroberts@williams-mckenzie.org,07358491543,Enugu,2023-05-30,,m,Owerri Outlet,Silver,2024-12-04,Card
+788,Okon Eze,anthonysmith@yahoo.com,08307296654,Kaduna,2023-05-18,28717.0,female,Benin Mall,Platinum,2025-07-20,POS
+789,Okon Ogunleye,valdezpatricia@yahoo.com,+2348266066442,Zamfara,2022-05-08,474551.0,female,Benin Mall,Platinum,2024-12-01,Card
+790,Chidinma Nnamdi,wilsonjoshua@george.org,08059339662,Ekiti,,,male,Owerri Outlet,Platinum,2024-11-13,Card
+791,Funke Adewale,courtney71@yahoo.com,+2347452433328,Adamawa,2025-03-08,,F,Owerri Outlet,Gold,2025-04-09,Transfer
+792,Blessing Ogunleye,francisco02@murray-steele.com,08970730859,Niger,2022-03-19,400034.0,Female,Kano Plaza,Silver,,Card
+793,Chika Olayinka,michael50@carter-fowler.com,+2348715822260,Akwa Ibom,,441472.0,female,Abuja Central,Gold,2025-01-04,POS
+794,Efe Ibrahim,KATHYGEORGE@STEPHENS.COM,+2348538137106,Edo,2023-02-18,,male,Lekki Branch,Silver,2025-09-27,Cash
+795,Bamidele Mohammed,fergusonmichael@gmail.com,07336569087,Zamfara,2020-12-07,242745.0,female,Ikeja Mall,Platinum,2023-05-29,Transfer
+796,Aisha Oladipo,kimberly65@gmail.com,08362572269,Lagos,2021-09-11,,Female,Abuja Central,Gold,2023-10-02,POS
+797,Tunde Ogunleye,mariepope@austin.net,+2348108759177,Katsina,,,,Enugu Plaza,Silver,2025-03-03,Cash
+798,Fatima Okon,estevens@fuentes.info,07748835662,Ebonyi,2023-10-14,,Female,Kano Plaza,Platinum,2024-02-25,POS
+799,Obinna Bello,lisapreston@hotmail.com,08891708009,Kwara,2025-04-10,,Female,Kaduna Main,Bronze,2024-04-12,Transfer
+800,Ibrahim Bello,anthony13@vincent.com,+2348038821019,Abia,2023-06-10,365302.0,M,Kano Plaza,Gold,2023-05-11,POS
